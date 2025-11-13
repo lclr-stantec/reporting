@@ -1,0 +1,524 @@
+<!DOCTYPE html >
+
+<head>
+    <title> LCLR Monthly Report </title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="https://unpkg.com/dc@4/dist/style/dc.css" />
+    <script src="https://unpkg.com/d3@5/dist/d3.js"></script>
+    <script src="https://unpkg.com/crossfilter2@1.5/crossfilter.js"></script>
+    <script src="https://unpkg.com/dc@4/dist/dc.js"></script>
+    <script src="https://npmcdn.com/universe@latest/universe.js"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
+    <script src="https://unpkg.com/intro.js/minified/intro.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="https://unpkg.com/intro.js/minified/introjs.min.css" />
+    <style>
+        body {
+        background-color: #808080;
+    }
+
+    .container {
+        margin-top: 80px;
+    }
+
+
+    .dc-chart g.row text {
+        fill: white;
+        font-weight: bold;
+    }
+
+    .dc-select-menu {
+        font-size: 1.1rem;
+        border-radius: 4px;
+    }
+
+    .chart-title {
+        font-size: 1.2rem;
+        color: white;
+        font-weight: bold;
+    }
+
+    .mapboxgl-popup {
+        max-width: 600px;
+        font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+        z-index: 1000;
+    }
+
+    .values {align-text: center;}
+
+    a {color: white;
+       font-size: 0.7rem;}
+
+    </style>
+</head>
+
+<body>
+    <nav class="navbar fixed-top navbar-dark bg-dark">
+        <span class="navbar-brand mb-0 h1"><img src="https://www.qldc.govt.nz/Image/qldc-logo.svg" height=35 style="padding-right: 15px;" />LCLR Monthly Reporting</span>
+        <span class='pull-right'>
+            <button type="button" class="btn btn-dark btn-sm" data-toggle="modal" data-target="#help" style="padding-left: 10px; padding-right: 10px;">Read Me</button>
+            <button type="button" class="btn btn-dark btn-sm" style="padding-left: 10px; padding-right: 10px;" onclick="javascript:dc.filterAll(); dc.renderAll();">Reset Filters</button>
+            <img src="https://www.stantec.com/content/dam/stantec/images/logos/logo-white.svg" height=35 />
+        </span>
+    </nav>
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <div id="cumulative_programme">
+                    <span class="chart-title">Cumulative Programme Costs</span>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col">
+                <div id="monthly_programme">
+                    <span class="chart-title">Monthly Programme Costs</span>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col">
+                <div id="bundle_baseline">
+                    <span class="chart-title">Overall Bundle Baseline Costs
+                        <span class="pull-right">
+                            <a class='reset float-sm-right' href='javascript:chartBundleBaseline.filterAll();dc.redrawAll();' style='visibility: hidden;'>Reset Filter</a>
+                        </span>
+                    </span>
+                </div>
+            </div>
+            <div class="col">
+                <div id="bundle_diverging">
+                    <span class="chart-title">Bundle Baseline vs Forecast Costs
+                        <span>
+                            <a class='reset float-sm-right' href='javascript:chartBundleDiverging.filterAll();dc.redrawAll();' style='visibility: hidden;'>Reset Filter</a>
+                        </span>
+                    </span>
+                </div>
+            </div>
+        </div>
+        <hr />
+        <div class="row">
+            <div class="col">
+                <div id="fee_baseline">
+                    <span class="chart-title">Baseline Costs by Fee Type
+                        <span>
+                            <a class='reset float-sm-right' href='javascript:chartFeesBaseline.filterAll();dc.redrawAll();' style='visibility: hidden;'>Reset Filter</a>
+                        </span>
+                    </span>
+                    </span>
+                </div>
+            </div>
+            <div class="col">
+                <div id="fee_diverging">
+                    <span class="chart-title">Project by Fee Type Baseline vs Forecast Costs
+                        <span>
+                            <a class='reset float-sm-right' href='javascript:chartFeesDiverging.filterAll();dc.redrawAll();' style='visibility: hidden;'>Reset Filter</a>
+                        </span>
+                    </span>
+                </div>
+            </div>
+        </div>
+        <hr />
+        <div class="row">
+            <div class="col">
+                <div id="stage_baseline">
+                    <span class="chart-title">Baseline Costs by Stage
+                        <span>
+                            <a class='reset float-sm-right' href='javascript:chartStageBaseline.filterAll();dc.redrawAll();' style='visibility: hidden;'>Reset Filter</a>
+                        </span>
+                    </span>
+                    </span>
+                </div>
+            </div>
+            <div class="col">
+                <div id="stage_diverging">
+                    <span class="chart-title">Project Stage Baseline vs Forecast Costs
+                        <span>
+                            <a class='reset float-sm-right' href='javascript:chartStageDiverging.filterAll();dc.redrawAll();' style='visibility: hidden;'>Reset Filter</a>
+                        </span>
+                    </span>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script>
+    const colorPositive = "#19b03e";
+    const colorNegative = "#f73b4e";
+
+    const dateParser = d3.timeParse("%d/%m/%Y")
+    const colorScale = d3.scaleOrdinal().domain(["positive", "negative"]).range([colorPositive, colorNegative]);
+
+    let chartBundleDiverging;
+    let chartBundleBaseline;
+
+    let chartStageDiverging;
+    let chartStageBaseline;
+
+    let chartCumulativeProgramme;
+    let chartMonthlyProgramme;
+
+    let chartFeesBaseline;
+    let chartFeesDiverging;
+
+    const nonFeesItems = ["Construction", "Tender", " Construction / MSQA", "Construction - Maintenance"]
+
+    const moneyFormat = d3.format('$.3s')
+    const dateFormat = d3.timeFormat('%b-%Y')
+    const marginsRow = { top: 5, left: 10, right: 20, bottom: 20 };
+
+    function addDays(date, days) {
+        var result = new Date(date);
+        result.setDate(result.getDate() + days);
+        return result;
+    }
+
+    function aheadBehindTitle(d) {
+        const val = d.value;
+        const sign = val > 0 ? `${moneyFormat(d.value)} AHEAD OF` : val < 0 ? `${moneyFormat(-d.value)} BEHIND` : "EQUAL TO";
+
+        return `${d.key} : Baseline costs are ${sign} Forecast costs`;
+    }
+
+    function remove_empty_bins(source_group) {
+        return {
+            all: function() {
+                return source_group.all().filter(function(d) {
+                    return d.value != 0;
+                });
+            }
+        };
+    }
+
+    function createRowChart(options) {
+
+        const chart = dc.rowChart(options.container);
+
+        chart.dimension(options.dimension)
+        chart.group(options.dimension.group()['reduceSum'](options.group));
+
+        delete options.container;
+        delete options.dimension;
+        delete options.group;
+
+        for (const [key, value] of Object.entries(options)) {
+            chart[key](value)
+        }
+        chart.turnOnControls(true)
+        chart.controlsUseVisibility(true)
+        return chart;
+
+    }
+
+    function createCumulativeGroup2(group) {
+
+        function aggregate(list) {
+            return list.reduce((acc, item, index) => {
+                acc[index] = {
+                    key: item.key,
+                    value: item.value + (index > 0 ? acc[index - 1].value : 0)
+                };
+
+                return acc;
+            }, []);
+        }
+        return {
+            all() {
+                return aggregate(group.all());
+            },
+
+            top(n) {
+                return aggregate(group.top(Infinity)).splice(0, n);
+            },
+
+            dispose() {
+                if (group.dispose) {
+                    group.dispose();
+                }
+            }
+        };
+    }
+
+    function createCumulativeGroup(source_group) {
+        return {
+            all: function() {
+                var cumulate = {};
+                return source_group.all().map(function(d) {
+                    if (cumulate[d.key[0]]) {
+                        cumulate[d.key[0]] += d.value;
+                    } else {
+                        cumulate[d.key[0]] = d.value;
+                    }
+                    return { key: d.key, value: cumulate[d.key[0]] };
+                });
+            }
+        };
+    }
+
+    function drawLegendToggles(chart) {
+        chart.selectAll('g.dc-legend .dc-legend-item')
+            .style('opacity', function(d, i) {
+                var subchart = chart.select('g.sub._' + i);
+                var visible = subchart.style('visibility') !== 'hidden';
+                return visible ? 1 : 0.2;
+            });
+    }
+
+    function legendToggle(chart) {
+        chart.selectAll('g.dc-legend .dc-legend-item')
+            .on('click.hideshow', function(d, i) {
+                var subchart = chart.select('g.sub._' + i);
+                var visible = subchart.style('visibility') !== 'hidden';
+                subchart.style('visibility', function() {
+                    return visible ? 'hidden' : 'visible';
+                });
+                drawLegendToggles(chart);
+            })
+        drawLegendToggles(chart);
+    }
+
+    function drawCharts(data) {
+
+
+        let processed = [];
+        processed = data;
+        console.log(processed);
+        processed = processed.filter(d => d.month <= dateParser("01/07/2027"))
+        const ndx = crossfilter(processed);
+        const all = ndx.groupAll();
+
+        chartFeesDiverging = createRowChart({
+            container: "#fee_diverging",
+            height: 200,
+            margins: marginsRow,
+            dimension: ndx.dimension(d => d.fees),
+            elasticX: true,
+            group: d => Math.round((d.baseline || 0) - (d.forecast || 0)),
+            valueAccessor: function(d) { return Math.abs(d.value) },
+            colors: colorScale,
+            colorAccessor: d => d.value >= 0 ? "positive" : "negative",
+            title: d => aheadBehindTitle(d)
+        })
+
+        chartFeesDiverging.xAxis().tickFormat(moneyFormat)
+
+        chartFeesBaseline = createRowChart({
+            container: "#fee_baseline",
+            height: 200,
+            margins: marginsRow,
+            dimension: ndx.dimension(d => d.fees),
+            elasticX: true,
+            group: d => Math.round(d.baseline || 0),
+            valueAccessor: d => Math.abs(d.value),
+            colors: "orange",
+            title: function(d) { return `${d.key} : ${moneyFormat(d.value)}` }
+        })
+
+
+        chartFeesBaseline.xAxis().tickFormat(moneyFormat)
+
+        chartBundleDiverging = createRowChart({
+            container: "#bundle_diverging",
+            height: 500,
+            margins: marginsRow,
+            dimension: ndx.dimension(d => d.main),
+            elasticX: true,
+            group: d => Math.round((d.baseline || 0) - (d.forecast || 0)),
+            valueAccessor: function(d) { return Math.abs(d.value) },
+            colors: colorScale,
+            colorAccessor: d => d.value >= 0 ? "positive" : "negative",
+            title: d => aheadBehindTitle(d)
+        })
+
+        chartBundleDiverging.xAxis().tickFormat(moneyFormat)
+
+        chartBundleBaseline = createRowChart({
+            container: "#bundle_baseline",
+            height: 500,
+            margins: marginsRow,
+            dimension: ndx.dimension(d => d.main),
+            elasticX: true,
+            group: d => Math.round(d.baseline),
+            valueAccessor: d => Math.abs(d.value || 0),
+            colors: "orange",
+            title: function(d) { return `${d.key} : ${moneyFormat(d.value)}` }
+        })
+
+        chartBundleBaseline.xAxis().tickFormat(moneyFormat)
+
+        chartStageDiverging = createRowChart({
+            container: "#stage_diverging",
+            height: 300,
+            margins: marginsRow,
+            dimension: ndx.dimension(d => d.item),
+            elasticX: true,
+            group: d => Math.round((d.baseline || 0) - (d.forecast || 0)),
+            valueAccessor: d => Math.abs(d.value),
+            colors: colorScale,
+            colorAccessor: d => d.value >= 0 ? "positive" : "negative",
+            title: d => aheadBehindTitle(d)
+        });
+
+        chartStageDiverging.xAxis().tickFormat(moneyFormat)
+
+        chartStageBaseline = createRowChart({
+            container: "#stage_baseline",
+            height: 300,
+            margins: marginsRow,
+            dimension: ndx.dimension(d => d.item),
+            elasticX: true,
+            group: d => Math.round(d.baseline || 0),
+            valueAccessor: d => Math.abs(d.value),
+            colors: "orange",
+            title: function(d) { return `${d.key} : ${moneyFormat(d.value)}` }
+        })
+
+        chartStageBaseline.xAxis().tickFormat(moneyFormat)
+
+        chartCumulativeProgramme = dc.compositeChart("#cumulative_programme")
+
+        const dimMonth = ndx.dimension(d => d.month)
+        const grpBaseline = dimMonth.group().reduceSum(d => d.baseline || 0);
+        const grpForecast = dimMonth.group().reduceSum(d => d.forecast || 0);
+        const grpActuals = dimMonth.group().reduceSum(d => d.actual || 0);
+
+        const minDate = d3.min(processed, d => d.month)
+        //const maxDate = d3.max(processed, d => d.month)
+        const maxDate = dateParser("30/06/2027")
+
+        console.log(maxDate)
+
+        function drawLegendToggles(chart) {
+            chart.selectAll('g.dc-legend .dc-legend-item')
+                .style('opacity', function(d, i) {
+                    var subchart = chart.select('g.sub._' + i);
+                    var visible = subchart.style('visibility') !== 'hidden';
+                    return visible ? 1 : 0.2;
+                });
+        }
+
+        function legendToggle(chart) {
+            chart.selectAll('g.dc-legend .dc-legend-item')
+                .on('click.hideshow', function(d, i) {
+                    var subchart = chart.select('g.sub._' + i);
+                    var visible = subchart.style('visibility') !== 'hidden';
+                    subchart.style('visibility', function() {
+                        return visible ? 'hidden' : 'visible';
+                    });
+                    drawLegendToggles(chart);
+                })
+            drawLegendToggles(chart);
+        }
+        var gap = 30,
+            translate = 16;
+
+        chartMonthlyProgramme = dc.compositeChart("#monthly_programme")
+        chartMonthlyProgramme
+            .height(400)
+            .margins({ top: 40, left: 60, right: 20, bottom: 40 })
+            .turnOnControls(true)
+            .clipPadding(10)
+            .elasticY(true)
+            .brushOn(false)
+            .x(d3.scaleTime().domain([minDate, maxDate]))
+            .renderHorizontalGridLines(true)
+            .renderVerticalGridLines(true)
+            .elasticX(true)
+            .title(function(d) { return `${dateFormat(d.key)}: ${moneyFormat(d.value)}` })
+            .dimension(dimMonth)
+            .x(d3.scaleTime().domain([minDate, maxDate]))
+            .xUnits(d3.timeMonths)
+            .group(grpForecast, "Forecast")
+            .compose([
+                dc.barChart(chartMonthlyProgramme)
+                .gap(gap)                
+                .group(grpBaseline, "Baseline")
+                .colors("blue"),
+                dc.barChart(chartMonthlyProgramme)
+                .gap(gap)
+                .group(grpForecast, "Forecast")
+                .colors("orange"),
+                dc.barChart(chartMonthlyProgramme)
+                .gap(gap)
+                .group(grpActuals, "Actual")
+                .colors("green")
+            ])
+            .legend(dc.legend().x(80).y(40).itemHeight(13).gap(5))
+            .renderlet(function(chart) {
+                chart.selectAll("g._0").attr("transform", "translate(-" + translate + ", 0)");
+                chart.selectAll("g._2").attr("transform", "translate(" + translate + ", 0)");
+            });
+
+        chartMonthlyProgramme.yAxis().tickFormat(moneyFormat)
+
+        chartCumulativeProgramme
+            .height(400)
+            .margins({ top: 40, left: 60, right: 20, bottom: 40 })
+            .turnOnControls(true)
+            .clipPadding(10)
+            .elasticY(true)
+            .brushOn(false)
+            .x(d3.scaleTime().domain([minDate, maxDate]))
+            .legend(dc.legend().x(80).y(40).itemHeight(13).gap(5))
+            .renderHorizontalGridLines(true)
+            .renderVerticalGridLines(true)
+            .elasticX(true)
+            .mouseZoomable(true)
+            .title(function(d) { return `${dateFormat(d.key)}: ${moneyFormat(d.value)}` })
+            .compose([
+                new dc.LineChart(chartCumulativeProgramme)
+                .dimension(dimMonth)
+                .group(createCumulativeGroup(remove_empty_bins(grpBaseline)), "Baseline")
+                .colors("blue")
+                .renderDataPoints(true),
+                new dc.LineChart(chartCumulativeProgramme)
+                .dimension(dimMonth)
+                .group(createCumulativeGroup(remove_empty_bins(grpForecast)), "Forecast")
+                .colors("orange")
+                .renderDataPoints(true),
+                new dc.LineChart(chartCumulativeProgramme)
+                .dimension(dimMonth)
+                .group(createCumulativeGroup(remove_empty_bins(grpActuals)), "Actual")
+                .colors("green")
+                .renderDataPoints(true)
+            ])
+            .brushOn(false)
+            .on('pretransition.hideshow', legendToggle);
+
+        chartCumulativeProgramme.yAxis().tickFormat(moneyFormat)
+
+
+        dc.renderAll();
+    };
+
+    d3.csv("https://raw.githubusercontent.com/lclr-stantec/reporting/refs/heads/main/LCLR_Fi_Rep.csv")
+        .then(function(data) {
+        	let processed = []
+        	console.log(data);
+
+        	data.forEach(function(q,i) {
+        		let d = {};
+        		d.id = i;
+        		d.main = q.main_pack.trim();
+        		d.sub = q.sub_pack.trim();
+        		d.item = q.stage.trim();
+        		d.fees = q.fees.trim();
+        		d.test = q.currentEnd;
+        		d.month = dateParser(q.currentEnd);
+        		d.forecast = Math.round(+q.Forecast * 100) / 100;
+        		d.baseline = Math.round(+q.Baseline * 100) / 100;
+        		d.actual = Math.round(+q.Actuals * 100) / 100;
+
+        		processed.push(d)
+        		
+
+        	})
+        	console.log(processed.filter(d => !d.month))
+
+        	drawCharts(processed)
+
+        });
+    </script>
+</body>
+
+</html>

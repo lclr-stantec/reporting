@@ -1,445 +1,446 @@
 main_pack,sub_pack,stage,Index,currentEnd,Actuals,Forecast,Baseline,CumulativeBaseline_Final,fees,CumulativeForecast_Final,CumulativeActuals_Final
-00_Programme Management,Actual,LS,36,1/05/2025,,919.3167,919.3167,919.3167,Fee Items,919.3167,
-00_Programme Management,Actual,LS,36,1/06/2025,,13789.7503,13789.7503,14709.067,Fee Items,14709.067,
-2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Concept / Scoping,80,1/06/2025,,1000,0.55,14709.617,Fee Items,15709.067,
-00_Programme Management,00_Programme Management,LS,0,1/06/2025,13992,0.55,0.55,14710.167,Fee Items,15709.617,13992
-2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Concept / Scoping,114,1/07/2025,,1500,1500,16210.167,Fee Items,17209.617,13992
-00_Programme Management,Actual,LS,36,1/07/2025,,14249.4087,14249.4087,30459.5757,Fee Items,31459.0257,13992
-2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Variation,67,1/07/2025,,2700,2700,33159.5757,Fee Items,34159.0257,13992
-2004 Arthurs Point - traffic calming,Actual,Concept / Scoping,66,1/07/2025,,2000,2000,35159.5757,Fee Items,36159.0257,13992
-2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Concept / Scoping,65,1/07/2025,,2000,2000,37159.5757,Fee Items,38159.0257,13992
-2006 RISU Signs - Rural Intersection Safety Upgrade,2006 RISU Signs - Rural Intersection Safety Upgrade,Concept / Scoping,37,1/07/2025,,1094.6571,565.7143,37725.29,Fee Items,39253.6828,13992
-2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Concept / Scoping,64,1/07/2025,,1977.0667,1466.6667,39191.9567,Fee Items,41230.7495,13992
-2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Concept / Scoping,113,1/07/2025,,1500,1600,40791.9567,Fee Items,42730.7495,13992
-2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Concept / Scoping,63,1/07/2025,,3000,2000,42791.9567,Fee Items,45730.7495,13992
-00_Programme Management,00_Programme Management,LS,1,1/07/2025,13992,0.55,0.55,42792.5067,Fee Items,45731.2995,27984
-2003 Wanaka TC - CBD connectivity upgrades,2003 - Wanaka TC,Concept / Scoping,16,1/07/2025,3665.61,0.55,0.55,42793.0567,Fee Items,45731.8495,31649.61
-2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Concept / Scoping,81,1/07/2025,,1000,0.55,42793.6067,Fee Items,46731.8495,31649.61
-2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Concept / Scoping,82,1/07/2025,,184,0.55,42794.1567,Fee Items,46915.8495,31649.61
-2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Concept / Scoping,83,1/07/2025,,940,0.55,42794.7067,Fee Items,47855.8495,31649.61
-2002 Glenorchy TC - Township improvements,2002 - Glenorchy TC,Concept / Scoping,9,1/07/2025,3429.87,0.55,0.55,42795.2567,Fee Items,47856.3995,35079.48
-2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Concept / Scoping,84,1/07/2025,,4160,0.55,42795.8067,Fee Items,52016.3995,35079.48
-2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Concept / Scoping,92,1/07/2025,,2210.5263,2210.5263,45006.333,Fee Items,54226.9258,35079.48
-2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Concept / Scoping,112,1/07/2025,,666,1000,46006.333,Fee Items,54892.9258,35079.48
-2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Concept / Scoping,62,1/07/2025,,3000,2000,48006.333,Fee Items,57892.9258,35079.48
-2006 RISU Signs - Rural Intersection Safety Upgrade,2006 RISU Signs - Rural Intersection Safety Upgrade,Concept / Scoping,38,1/08/2025,,0,1571.4286,49577.7616,Fee Items,57892.9258,35079.48
-2006 RISU Signs - Rural Intersection Safety Upgrade,2006 RISU Signs - Rural Intersection Safety Upgrade,Concept / Scoping,37,1/08/2025,,3162.3429,1634.2857,51212.0473,Fee Items,61055.2687,35079.48
-2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Concept / Scoping,64,1/08/2025,,718.9333,533.3333,51745.3806,Fee Items,61774.202,35079.48
-2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Concept / Scoping,92,1/08/2025,,3807.0175,3807.0175,55552.3981,Fee Items,65581.2195,35079.48
-00_Programme Management,Actual,LS,36,1/08/2025,,14249.4087,14249.4087,69801.8068,Fee Items,79830.6282,35079.48
-2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Concept / Scoping,115,1/08/2025,,0,1500,71301.8068,Fee Items,79830.6282,35079.48
-2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Variation,68,1/08/2025,,772.2772,257.4257,71559.2325,Fee Items,80602.9054,35079.48
-2004 Arthurs Point - traffic calming,2004 - Aruthrs Point,Concept / Scoping,19,1/08/2025,10909.22,0.55,0.55,71559.7825,Fee Items,80603.4554,45988.7
-2005 Crown Range Passing Lanes,2005 - CR Passing Lanes,Detailed Design,20,1/08/2025,9140,0.55,0.55,71560.3325,Fee Items,80604.0054,55128.7
-00_Programme Management,00_Programme Management,LS,2,1/08/2025,13992,0.55,0.55,71560.8825,Fee Items,80604.5554,69120.7
-2006 RISU Signs - Rural Intersection Safety Upgrade,2006 - RISU Signs,Concept / Scoping,23,1/08/2025,4256.63,0.55,0.55,71561.4325,Fee Items,80605.1054,73377.33
-2002 Glenorchy TC - Township improvements,2002 - Glenorchy TC,Concept / Scoping,10,1/08/2025,3854.2,0.55,0.55,71561.9825,Fee Items,80605.6554,77231.53
-2009 Brunswick Int - Upgrade,2009 Brunswick Int - Upgrade,Concept / Scoping,54,1/09/2025,,1306,1300,72861.9825,Fee Items,81911.6554,77231.53
-2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Variation,68,1/09/2025,,891.0891,297.0297,73159.0122,Fee Items,82802.7445,77231.53
-00_Programme Management,00_Programme Management,LS,3,1/09/2025,13992,0.55,0.55,73159.5622,Fee Items,82803.2945,91223.53
-2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Concept / Scoping,93,1/09/2025,,2140,1300,74459.5622,Fee Items,84943.2945,91223.53
-00_Programme Management,Actual,LS,36,1/09/2025,,13789.7503,13789.7503,88249.3125,Fee Items,98733.0448,91223.53
-2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Concept / Scoping,116,1/09/2025,,12916.2222,13000,101249.3125,Fee Items,111649.267,91223.53
-2003 Wanaka TC - CBD connectivity upgrades,2003 - Wanaka TC,Concept / Scoping,17,1/09/2025,12860,0.55,0.55,101249.8625,Fee Items,111649.817,104083.53
-2006 RISU Signs - Rural Intersection Safety Upgrade,2006 RISU Signs - Rural Intersection Safety Upgrade,Concept / Scoping,38,1/09/2025,,0,628.5714,101878.4339,Fee Items,111649.817,104083.53
-2006 RISU Signs - Rural Intersection Safety Upgrade,2006 RISU Signs - Rural Intersection Safety Upgrade,Concept / Scoping,39,1/09/2025,,0,1760,103638.4339,Fee Items,111649.817,104083.53
-2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Concept / Scoping,92,1/09/2025,,982.4561,982.4561,104620.89,Fee Items,112632.2731,104083.53
-2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Detailed Design,85,1/10/2025,,0,5000,109620.89,Fee Items,112632.2731,104083.53
-2002 Glenorchy TC - Township improvements,2002 - Glenorchy TC,Detailed Design,11,1/10/2025,10612,0.55,0.55,109621.44,Fee Items,112632.8231,114695.53
-2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Variation,68,1/10/2025,,920.7921,306.9307,109928.3707,Fee Items,113553.6152,114695.53
-2009 Brunswick Int - Upgrade,2009 Brunswick Int - Upgrade,Concept / Scoping,55,1/10/2025,,12000,12000,121928.3707,Fee Items,125553.6152,114695.53
-2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Concept / Scoping,116,1/10/2025,,4967.7778,5000,126928.3707,Fee Items,130521.393,114695.53
-2007 RISU Bundle - Rural Intersection Safety Upgrades,2007 RISU Bundle - Rural Intersection Safety Upgrades,Detailed Design,49,1/10/2025,,11336.8421,12631.5789,139559.9496,Fee Items,141858.2351,114695.53
-2009 Brunswick Int - Upgrade,2009 - RISU Signs,Concept / Scoping,31,1/10/2025,11266,0.55,0.55,139560.4996,Fee Items,141858.7851,125961.53
-2009 Brunswick Int - Upgrade,2009 Brunswick Int - Upgrade,Concept / Scoping,56,1/10/2025,,1162.7907,1162.7907,140723.2903,Fee Items,143021.5758,125961.53
-2011 Golf Course RBT,2011 - RISU Signs,Concept / Scoping,34,1/10/2025,3082,0.55,0.55,140723.8403,Fee Items,143022.1258,129043.53
-2006 RISU Signs - Rural Intersection Safety Upgrade,2006 RISU Signs - Rural Intersection Safety Upgrade,Concept / Scoping,39,1/10/2025,,0,440,141163.8403,Fee Items,143022.1258,129043.53
-2007 RISU Bundle - Rural Intersection Safety Upgrades,2007 RISU Bundle - Rural Intersection Safety Upgrades,Detailed Design,48,1/10/2025,,0,4000,145163.8403,Fee Items,143022.1258,129043.53
-2007 RISU Bundle - Rural Intersection Safety Upgrades,2007 - RISU Signs,Concept / Scoping,26,1/10/2025,4488,0.55,0.55,145164.3903,Fee Items,143022.6758,133531.53
-2006 RISU Signs - Rural Intersection Safety Upgrade,2006 RISU Signs - Rural Intersection Safety Upgrade,Detailed Design,40,1/10/2025,,2483.3333,6666.6667,151831.057,Fee Items,145506.0091,133531.53
-00_Programme Management,Actual,LS,36,1/10/2025,,14249.4087,14249.4087,166080.4657,Fee Items,159755.4178,133531.53
-2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Concept / Scoping,73,1/10/2025,,782.0225,539.3258,166619.7915,Fee Items,160537.4403,133531.53
-00_Programme Management,00_Programme Management,LS,4,1/10/2025,13992,0.55,0.55,166620.3415,Fee Items,160537.9903,147523.53
-2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Detailed Design,86,1/11/2025,,4969,4000,170620.3415,Fee Items,165506.9903,147523.53
-2002 Glenorchy TC - Township improvements,2002 - Glenorchy TC,Detailed Design,12,1/11/2025,6368,0.55,0.55,170620.8915,Fee Items,165507.5403,153891.53
-2007 RISU Bundle - Rural Intersection Safety Upgrades,2007 RISU Bundle - Rural Intersection Safety Upgrades,Detailed Design,49,1/11/2025,,6613.1579,7368.4211,177989.3126,Fee Items,172120.6982,153891.53
-2009 Brunswick Int - Upgrade,2009 Brunswick Int - Upgrade,Concept / Scoping,56,1/11/2025,,6976.7442,6976.7442,184966.0568,Fee Items,179097.4424,153891.53
-2006 RISU Signs - Rural Intersection Safety Upgrade,2006 RISU Signs - Rural Intersection Safety Upgrade,Detailed Design,40,1/11/2025,,4966.6667,13333.3333,198299.3901,Fee Items,184064.1091,153891.53
-2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Detailed Design,87,1/11/2025,,5385.4478,3805.9701,202105.3602,Fee Items,189449.5569,153891.53
-2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Concept / Scoping,94,1/11/2025,,5191.6667,0,202105.3602,Fee Items,194641.2236,153891.53
-00_Programme Management,00_Programme Management,LS,5,1/11/2025,13992,0.55,0.55,202105.9102,Fee Items,194641.7736,167883.53
-2002 Glenorchy TC - Township improvements,2002 - Glenorchy TC,Concept / Scoping,15,1/11/2025,5366,0.55,0.55,202106.4602,Fee Items,194642.3236,173249.53
-2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Variation,71,1/11/2025,,3000,1000,203106.4602,Fee Items,197642.3236,173249.53
-2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Variation,70,1/11/2025,,3000,1000,204106.4602,Fee Items,200642.3236,173249.53
-2003 Wanaka TC - CBD connectivity upgrades,2003 - Wanaka TC,Concept / Scoping,18,1/11/2025,1100,0.55,0.55,204107.0102,Fee Items,200642.8736,174349.53
-2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Variation,72,1/11/2025,,642.8571,214.2857,204321.2959,Fee Items,201285.7307,174349.53
-2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Variation,68,1/11/2025,,415.8416,138.6139,204459.9098,Fee Items,201701.5723,174349.53
-00_Programme Management,Actual,LS,36,1/11/2025,,13789.7503,13789.7503,218249.6601,Fee Items,215491.3226,174349.53
-2011 Golf Course RBT,2011 - RISU Signs,Concept / Scoping,35,1/11/2025,1130,0.55,0.55,218250.2101,Fee Items,215491.8726,175479.53
-2007 RISU Bundle - Rural Intersection Safety Upgrades,2007 - RISU Signs,Concept / Scoping,27,1/11/2025,4488,0.55,0.55,218250.7601,Fee Items,215492.4226,179967.53
-2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Concept / Scoping,73,1/11/2025,,1955.0562,1348.3146,219599.0747,Fee Items,217447.4788,179967.53
-2009 Brunswick Int - Upgrade,2009 - RISU Signs,Concept / Scoping,32,1/11/2025,2510,0.55,0.55,219599.6247,Fee Items,217448.0288,182477.53
-2006 RISU Signs - Rural Intersection Safety Upgrade,2006 - RISU Signs,Concept / Scoping,24,1/11/2025,1490,0.55,0.55,219600.1747,Fee Items,217448.5788,183967.53
-2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Variation,69,1/11/2025,,3000,1000,220600.1747,Fee Items,220448.5788,183967.53
-2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Detailed Design,117,1/12/2025,,5460,7800,228400.1747,Fee Items,225908.5788,183967.53
-2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Concept / Scoping,94,1/12/2025,,3708.3333,0,228400.1747,Fee Items,229616.9121,183967.53
-2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Concept / Scoping,95,1/12/2025,,4047.6923,0,228400.1747,Fee Items,233664.6044,183967.53
-00_Programme Management,Actual,LS,36,1/12/2025,,14249.4087,14249.4087,242649.5834,Fee Items,247914.0131,183967.53
-2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Variation,72,1/12/2025,,2357.1429,785.7143,243435.2977,Fee Items,250271.156,183967.53
-2009 Brunswick Int - Upgrade,2009 Brunswick Int - Upgrade,Concept / Scoping,56,1/12/2025,,1860.4651,1860.4651,245295.7628,Fee Items,252131.6211,183967.53
-2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Concept / Scoping,73,1/12/2025,,2020.2247,1393.2584,246689.0212,Fee Items,254151.8458,183967.53
-00_Programme Management,00_Programme Management,LS,6,1/12/2025,13992,0.55,0.55,246689.5712,Fee Items,254152.3958,197959.53
-2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Detailed Design,87,1/12/2025,,9820.5224,6940.2985,253629.8697,Fee Items,263972.9182,197959.53
-2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,Detailed Design,123,1/12/2025,,16023.7288,14745.7627,268375.6324,Fee Items,279996.647,197959.53
-2008 Fernhill Int - concept feasibility traffic assessment,2008 Fernhill Int - concept feasibility traffic assessment,Concept / Scoping,128,1/12/2025,,24440,0,268375.6324,Fee Items,304436.647,197959.53
-2008 Fernhill Int - concept feasibility traffic assessment,2008 - RISU Signs,Concept / Scoping,29,1/01/2026,9944,0.55,0.55,268376.1824,Fee Items,304437.197,207903.53
-2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Concept / Scoping,74,1/01/2026,,1181.8182,590.9091,268967.0915,Fee Items,305619.0152,207903.53
-2002 Glenorchy TC - Township improvements,2002 - Glenorchy TC,Detailed Design,13,1/01/2026,4245,0.55,0.55,268967.6415,Fee Items,305619.5652,212148.53
-2011 Golf Course RBT,2011 Golf Course RBT,Concept / Scoping,104,1/01/2026,,2000,0,268967.6415,Fee Items,307619.5652,212148.53
-2011 Golf Course RBT,2011 Golf Course RBT,Concept / Scoping,103,1/01/2026,,11069,0,268967.6415,Fee Items,318688.5652,212148.53
-2011 Golf Course RBT,2011 Golf Course RBT,Concept / Scoping,102,1/01/2026,,2000,0,268967.6415,Fee Items,320688.5652,212148.53
-2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Concept / Scoping,95,1/01/2026,,4722.3077,0,268967.6415,Fee Items,325410.8729,212148.53
-2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Concept / Scoping,73,1/01/2026,,1042.6966,719.1011,269686.7426,Fee Items,326453.5695,212148.53
-2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,Detailed Design,123,1/01/2026,,17128.8136,15762.7119,285449.4545,Fee Items,343582.3831,212148.53
-2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Detailed Design,117,1/01/2026,,18806.6667,26866.6667,312316.1212,Fee Items,362389.0498,212148.53
-2007 RISU Bundle - Rural Intersection Safety Upgrades,2007 - RISU Signs,Concept / Scoping,28,1/01/2026,8975,0.55,0.55,312316.6712,Fee Items,362389.5998,221123.53
-2006 RISU Signs - Rural Intersection Safety Upgrade,2006 - RISU Signs,Concept / Scoping,25,1/01/2026,5960,0.55,0.55,312317.2212,Fee Items,362390.1498,227083.53
-2008 Fernhill Int - concept feasibility traffic assessment,2008 Fernhill Int - concept feasibility traffic assessment,Concept / Scoping,129,1/01/2026,,2191.7808,0,312317.2212,Fee Items,364581.9306,227083.53
-00_Programme Management,Actual,LS,36,1/01/2026,,14249.4087,14249.4087,326566.6299,Fee Items,378831.3393,227083.53
-2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Detailed Design,87,1/01/2026,,9820.5224,6940.2985,333506.9284,Fee Items,388651.8617,227083.53
-00_Programme Management,00_Programme Management,LS,7,1/01/2026,13992,0.55,0.55,333507.4784,Fee Items,388652.4117,241075.53
-2005 Crown Range Passing Lanes,2005 - CR Passing Lanes,Concept / Scoping,22,1/01/2026,8770,0.55,0.55,333508.0284,Fee Items,388652.9617,249845.53
-2009 Brunswick Int - Upgrade,2009 Brunswick Int - Upgrade,Detailed Design,57,1/02/2026,,3243.2432,1945.9459,335453.9743,Fee Items,391896.2049,249845.53
-2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Detailed Design,87,1/02/2026,,8870.1493,6268.6567,341722.631,Fee Items,400766.3542,249845.53
-2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Concept / Scoping,74,1/02/2026,,818.1818,409.0909,342131.7219,Fee Items,401584.536,249845.53
-2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Detailed Design,117,1/02/2026,,16986.6667,24266.6667,366398.3886,Fee Items,418571.2027,249845.53
-2011 Golf Course RBT,2011 Golf Course RBT,Detailed Design,106,1/02/2026,,1285.7143,1285.7143,367684.1029,Fee Items,419856.917,249845.53
-2006 RISU Signs - Rural Intersection Safety Upgrade,2006 RISU Signs - Rural Intersection Safety Upgrade,Construction,44,1/02/2026,,10000,0,367684.1029,Non-Fee Items,429856.917,249845.53
-2006 RISU Signs - Rural Intersection Safety Upgrade,2006 RISU Signs - Rural Intersection Safety Upgrade,Construction,41,1/02/2026,,428.5714,342.8571,368026.96,Non-Fee Items,430285.4884,249845.53
-2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,Detailed Design,123,1/02/2026,,15471.1864,14237.2881,382264.2481,Fee Items,445756.6748,249845.53
-2007 RISU Bundle - Rural Intersection Safety Upgrades,2007 RISU Bundle - Rural Intersection Safety Upgrades,Construction,50,1/02/2026,,48.3871,387.0968,382651.3449,Non-Fee Items,445805.0619,249845.53
-2006 RISU Signs - Rural Intersection Safety Upgrade,2006 RISU Signs - Rural Intersection Safety Upgrade,Construction,46,1/02/2026,,125000,0,382651.3449,Non-Fee Items,570805.0619,249845.53
-00_Programme Management,Actual,LS,36,1/02/2026,,12870.4336,12870.4336,395521.7785,Fee Items,583675.4955,249845.53
-2008 Fernhill Int - concept feasibility traffic assessment,2008 Fernhill Int - concept feasibility traffic assessment,Concept / Scoping,129,1/02/2026,,3068.4932,0,395521.7785,Fee Items,586743.9887,249845.53
-2006 RISU Signs - Rural Intersection Safety Upgrade,2006 RISU Signs - Rural Intersection Safety Upgrade,Construction,45,1/02/2026,,10000,0,395521.7785,Non-Fee Items,596743.9887,249845.53
-00_Programme Management,00_Programme Management,LS,8,1/02/2026,13992,0.55,0.55,395522.3285,Fee Items,596744.5387,263837.53
-2008 Fernhill Int - concept feasibility traffic assessment,2008 - RISU Signs,Concept / Scoping,30,1/02/2026,31264,0.55,0.55,395522.8785,Fee Items,596745.0887,295101.53
-2002 Glenorchy TC - Township improvements,2002 - Glenorchy TC,Detailed Design,14,1/02/2026,8490,0.55,0.55,395523.4285,Fee Items,596745.6387,303591.53
-2005 Crown Range Passing Lanes,2005 - CR Passing Lanes,Concept / Scoping,21,1/02/2026,8712,0.55,0.55,395523.9785,Fee Items,596746.1887,312303.53
-2009 Brunswick Int - Upgrade,2009 - RISU Signs,Concept / Scoping,33,1/02/2026,11636,0.55,0.55,395524.5285,Fee Items,596746.7387,323939.53
-2006 RISU Signs - Rural Intersection Safety Upgrade,2006 RISU Signs - Rural Intersection Safety Upgrade,Construction,43,1/03/2026,,0,105106.383,500630.9115,Non-Fee Items,596746.7387,323939.53
-2006 RISU Signs - Rural Intersection Safety Upgrade,2006 RISU Signs - Rural Intersection Safety Upgrade,Construction,42,1/03/2026,,12170.2128,11063.8298,511694.7413,Fee Items,608916.9515,323939.53
-2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Detailed Design,87,1/03/2026,,8553.3582,6044.7761,517739.5174,Fee Items,617470.3097,323939.53
-2006 RISU Signs - Rural Intersection Safety Upgrade,2006 RISU Signs - Rural Intersection Safety Upgrade,Construction,41,1/03/2026,,1071.4286,857.1429,518596.6603,Non-Fee Items,618541.7383,323939.53
-2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Detailed Design,117,1/03/2026,,18806.6667,26866.6667,545463.327,Fee Items,637348.405,323939.53
-2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,Detailed Design,123,1/03/2026,,17128.8136,15762.7119,561226.0389,Fee Items,654477.2186,323939.53
-2011 Golf Course RBT,2011 Golf Course RBT,Detailed Design,106,1/03/2026,,2714.2857,2714.2857,563940.3246,Fee Items,657191.5043,323939.53
-2007 RISU Bundle - Rural Intersection Safety Upgrades,2007 RISU Bundle - Rural Intersection Safety Upgrades,Construction,50,1/03/2026,,750,6000,569940.3246,Non-Fee Items,657941.5043,323939.53
-2009 Brunswick Int - Upgrade,2009 Brunswick Int - Upgrade,Detailed Design,57,1/03/2026,,16756.7568,10054.0541,579994.3787,Fee Items,674698.2611,323939.53
-2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Detailed Design,96,1/03/2026,,17910.4478,26865.6716,606860.0503,Fee Items,692608.7089,323939.53
-2008 Fernhill Int - concept feasibility traffic assessment,2008 Fernhill Int - concept feasibility traffic assessment,Concept / Scoping,129,1/03/2026,,3397.2603,0,606860.0503,Fee Items,696005.9692,323939.53
-00_Programme Management,Actual,LS,36,1/03/2026,,14249.4087,14249.4087,621109.459,Fee Items,710255.3779,323939.53
-2011 Golf Course RBT,2011 Golf Course RBT,Detailed Design,107,1/03/2026,,2666.6667,2666.6667,623776.1257,Fee Items,712922.0446,323939.53
-2011 Golf Course RBT,2011 Golf Course RBT,Detailed Design,105,1/03/2026,,51578.9474,51578.9474,675355.0731,Fee Items,764500.992,323939.53
-2008 Fernhill Int - concept feasibility traffic assessment,2008 Fernhill Int - concept feasibility traffic assessment,Concept / Scoping,129,1/04/2026,,3287.6712,0,675355.0731,Fee Items,767788.6632,323939.53
-00_Programme Management,Actual,LS,36,1/04/2026,,13789.7503,13789.7503,689144.8234,Fee Items,781578.4135,323939.53
-2006 RISU Signs - Rural Intersection Safety Upgrade,2006 RISU Signs - Rural Intersection Safety Upgrade,Construction,42,1/04/2026,,9829.7872,8936.1702,698080.9936,Fee Items,791408.2007,323939.53
-2006 RISU Signs - Rural Intersection Safety Upgrade,2006 RISU Signs - Rural Intersection Safety Upgrade,Construction,43,1/04/2026,,0,84893.617,782974.6106,Non-Fee Items,791408.2007,323939.53
-2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,Detailed Design,123,1/04/2026,,16576.2712,15254.2373,798228.8479,Fee Items,807984.4719,323939.53
-2006 RISU Signs - Rural Intersection Safety Upgrade,2006 RISU Signs - Rural Intersection Safety Upgrade,Construction,47,1/04/2026,,165.1376,165.1376,798393.9855,Non-Fee Items,808149.6095,323939.53
-2007 RISU Bundle - Rural Intersection Safety Upgrades,2007 RISU Bundle - Rural Intersection Safety Upgrades,Construction,52,1/04/2026,,7857.1429,15000,813393.9855,Non-Fee Items,816006.7524,323939.53
-2009 Brunswick Int - Upgrade,2009 Brunswick Int - Upgrade,Detailed Design,57,1/04/2026,,16216.2162,9729.7297,823123.7152,Fee Items,832222.9686,323939.53
-2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Detailed Design,117,1/04/2026,,18200,26000,849123.7152,Fee Items,850422.9686,323939.53
-2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Detailed Design,75,1/04/2026,,12413.7931,12413.7931,861537.5083,Fee Items,862836.7617,323939.53
-2011 Golf Course RBT,2011 Golf Course RBT,Detailed Design,107,1/04/2026,,1333.3333,1333.3333,862870.8416,Fee Items,864170.095,323939.53
-2007 RISU Bundle - Rural Intersection Safety Upgrades,2007 RISU Bundle - Rural Intersection Safety Upgrades,Construction,51,1/04/2026,,323.9437,633.8028,863504.6444,Fee Items,864494.0387,323939.53
-2007 RISU Bundle - Rural Intersection Safety Upgrades,2007 RISU Bundle - Rural Intersection Safety Upgrades,Construction,50,1/04/2026,,701.6129,5612.9032,869117.5476,Non-Fee Items,865195.6516,323939.53
-2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Detailed Design,96,1/04/2026,,17910.4478,26865.6716,895983.2192,Fee Items,883106.0994,323939.53
-2011 Golf Course RBT,2011 Golf Course RBT,Detailed Design,105,1/04/2026,,18421.0526,18421.0526,914404.2718,Fee Items,901527.152,323939.53
-2006 RISU Signs - Rural Intersection Safety Upgrade,2006 RISU Signs - Rural Intersection Safety Upgrade,Construction,47,1/05/2026,,568.8073,568.8073,914973.0791,Non-Fee Items,902095.9593,323939.53
-2007 RISU Bundle - Rural Intersection Safety Upgrades,2007 RISU Bundle - Rural Intersection Safety Upgrades,Construction,53,1/05/2026,,37894.7368,3157.8947,918130.9738,Non-Fee Items,939990.6961,323939.53
-2007 RISU Bundle - Rural Intersection Safety Upgrades,2007 RISU Bundle - Rural Intersection Safety Upgrades,Construction,52,1/05/2026,,102142.8571,195000,1113130.974,Non-Fee Items,1042133.553,323939.53
-2009 Brunswick Int - Upgrade,2009 Brunswick Int - Upgrade,Detailed Design,57,1/05/2026,,3783.7838,2270.2703,1115401.244,Fee Items,1045917.337,323939.53
-2007 RISU Bundle - Rural Intersection Safety Upgrades,2007 RISU Bundle - Rural Intersection Safety Upgrades,Construction,51,1/05/2026,,10042.2535,19647.8873,1135049.131,Fee Items,1055959.591,323939.53
-00_Programme Management,Actual,LS,36,1/05/2026,,14249.4087,14249.4087,1149298.54,Fee Items,1070208.999,323939.53
-2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Detailed Design,96,1/05/2026,,4179.1045,6268.6567,1155567.197,Fee Items,1074388.104,323939.53
-2008 Fernhill Int - concept feasibility traffic assessment,2008 Fernhill Int - concept feasibility traffic assessment,Concept / Scoping,129,1/05/2026,,3397.2603,0,1155567.197,Fee Items,1077785.364,323939.53
-2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,Detailed Design,123,1/05/2026,,17128.8136,15762.7119,1171329.909,Fee Items,1094914.178,323939.53
-2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Construction,88,1/05/2026,,3789.4737,3789.4737,1175119.382,Non-Fee Items,1098703.651,323939.53
-2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Detailed Design,117,1/05/2026,,12740,18200,1193319.382,Fee Items,1111443.651,323939.53
-2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Detailed Design,118,1/05/2026,,136.3636,136.3636,1193455.746,Fee Items,1111580.015,323939.53
-2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Detailed Design,75,1/05/2026,,21379.3103,21379.3103,1214835.056,Fee Items,1132959.325,323939.53
-2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Detailed Design,97,1/06/2026,,3538.4615,3538.4615,1218373.518,Fee Items,1136497.787,323939.53
-2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,Detailed Design,123,1/06/2026,,16576.2712,15254.2373,1233627.755,Fee Items,1153074.058,323939.53
-2011 Golf Course RBT,2011 Golf Course RBT,Construction,108,1/06/2026,,7887.3239,7887.3239,1241515.079,Non-Fee Items,1160961.382,323939.53
-2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Detailed Design,118,1/06/2026,,863.6364,863.6364,1242378.715,Fee Items,1161825.018,323939.53
-2008 Fernhill Int - concept feasibility traffic assessment,2008 Fernhill Int - concept feasibility traffic assessment,Concept / Scoping,129,1/06/2026,,3287.6712,0,1242378.715,Fee Items,1165112.689,323939.53
-2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Construction,88,1/06/2026,,6315.7895,6315.7895,1248694.505,Non-Fee Items,1171428.479,323939.53
-2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Detailed Design,75,1/06/2026,,6206.8966,6206.8966,1254901.402,Fee Items,1177635.376,323939.53
-00_Programme Management,Actual,LS,36,1/06/2026,,13789.7503,13789.7503,1268691.152,Fee Items,1191425.126,323939.53
-2007 RISU Bundle - Rural Intersection Safety Upgrades,2007 RISU Bundle - Rural Intersection Safety Upgrades,Construction,53,1/06/2026,,63157.8947,5263.1579,1273954.31,Non-Fee Items,1254583.021,323939.53
-2007 RISU Bundle - Rural Intersection Safety Upgrades,2007 RISU Bundle - Rural Intersection Safety Upgrades,Construction,51,1/06/2026,,9718.3099,19014.0845,1292968.394,Fee Items,1264301.33,323939.53
-2006 RISU Signs - Rural Intersection Safety Upgrade,2006 RISU Signs - Rural Intersection Safety Upgrade,Construction,47,1/06/2026,,550.4587,550.4587,1293518.853,Non-Fee Items,1264851.789,323939.53
-2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Construction,90,1/07/2026,,61876.1062,61876.1062,1355394.959,Non-Fee Items,1326727.895,323939.53
-2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Detailed Design,97,1/07/2026,,461.5385,461.5385,1355856.498,Fee Items,1327189.434,323939.53
-2009 Brunswick Int - Upgrade,2009 Brunswick Int - Upgrade,Construction,58,1/07/2026,,5442.8571,5442.8571,1361299.355,Non-Fee Items,1332632.291,323939.53
-2007 RISU Bundle - Rural Intersection Safety Upgrades,2007 RISU Bundle - Rural Intersection Safety Upgrades,Construction,53,1/07/2026,,18947.3684,1578.9474,1362878.302,Non-Fee Items,1351579.659,323939.53
-2007 RISU Bundle - Rural Intersection Safety Upgrades,2007 RISU Bundle - Rural Intersection Safety Upgrades,Construction,51,1/07/2026,,2915.493,5704.2254,1368582.528,Fee Items,1354495.152,323939.53
-2011 Golf Course RBT,2011 Golf Course RBT,Construction,108,1/07/2026,,8732.3944,8732.3944,1377314.922,Non-Fee Items,1363227.547,323939.53
-2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Construction,89,1/07/2026,,9483.1858,9483.1858,1386798.108,Fee Items,1372710.733,323939.53
-2006 RISU Signs - Rural Intersection Safety Upgrade,2006 RISU Signs - Rural Intersection Safety Upgrade,Construction,47,1/07/2026,,568.8073,568.8073,1387366.915,Non-Fee Items,1373279.54,323939.53
-2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Construction,76,1/07/2026,,1857.1429,1857.1429,1389224.058,Non-Fee Items,1375136.683,323939.53
-2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Construction,88,1/07/2026,,1894.7368,1894.7368,1391118.795,Non-Fee Items,1377031.42,323939.53
-2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,Detailed Design,123,1/07/2026,,17128.8136,15762.7119,1406881.507,Fee Items,1394160.233,323939.53
-00_Programme Management,Actual,LS,36,1/07/2026,,14249.4087,14249.4087,1421130.915,Fee Items,1408409.642,323939.53
-2008 Fernhill Int - concept feasibility traffic assessment,2008 Fernhill Int - concept feasibility traffic assessment,Concept / Scoping,129,1/07/2026,,3397.2603,0,1421130.915,Fee Items,1411806.902,323939.53
-2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Construction,119,1/07/2026,,1071.4286,1071.4286,1422202.344,Non-Fee Items,1412878.331,323939.53
-2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Construction,89,1/08/2026,,15472.5664,15472.5664,1437674.91,Fee Items,1428350.897,323939.53
-2008 Fernhill Int - concept feasibility traffic assessment,2008 Fernhill Int - concept feasibility traffic assessment,Concept / Scoping,132,1/08/2026,,0,7071.4286,1444746.339,Fee Items,1428350.897,323939.53
-2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Construction,90,1/08/2026,,100955.7522,100955.7522,1545702.091,Non-Fee Items,1529306.649,323939.53
-2009 Brunswick Int - Upgrade,2009 Brunswick Int - Upgrade,Construction,60,1/08/2026,,14788.7324,18732.3944,1564434.486,Non-Fee Items,1544095.382,323939.53
-2008 Fernhill Int - concept feasibility traffic assessment,2008 Fernhill Int - concept feasibility traffic assessment,Concept / Scoping,130,1/08/2026,,1560,0,1564434.486,Fee Items,1545655.382,323939.53
-2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Construction,98,1/08/2026,,4500,4500,1568934.486,Non-Fee Items,1550155.382,323939.53
-2008 Fernhill Int - concept feasibility traffic assessment,2008 Fernhill Int - concept feasibility traffic assessment,Concept / Scoping,129,1/08/2026,,1972.6027,0,1568934.486,Fee Items,1552127.984,323939.53
-2009 Brunswick Int - Upgrade,2009 Brunswick Int - Upgrade,Construction,58,1/08/2026,,7257.1429,7257.1429,1576191.628,Non-Fee Items,1559385.127,323939.53
-00_Programme Management,Actual,LS,36,1/08/2026,,14249.4087,14249.4087,1590441.037,Fee Items,1573634.536,323939.53
-2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,Detailed Design,123,1/08/2026,,17128.8136,15762.7119,1606203.749,Fee Items,1590763.35,323939.53
-2011 Golf Course RBT,2011 Golf Course RBT,Construction,108,1/08/2026,,3380.2817,3380.2817,1609584.031,Non-Fee Items,1594143.631,323939.53
-2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Construction,119,1/08/2026,,8303.5714,8303.5714,1617887.602,Non-Fee Items,1602447.203,323939.53
-2011 Golf Course RBT,2011 Golf Course RBT,Construction,110,1/08/2026,,55710.9005,55710.9005,1673598.503,Non-Fee Items,1658158.103,323939.53
-2009 Brunswick Int - Upgrade,2009 Brunswick Int - Upgrade,Construction,59,1/08/2026,,3943.662,3943.662,1677542.165,Fee Items,1662101.765,323939.53
-2006 RISU Signs - Rural Intersection Safety Upgrade,2006 RISU Signs - Rural Intersection Safety Upgrade,Construction,47,1/08/2026,,568.8073,568.8073,1678110.972,Non-Fee Items,1662670.573,323939.53
-2011 Golf Course RBT,2011 Golf Course RBT,Construction,109,1/08/2026,,2962.0853,2962.0853,1681073.057,Fee Items,1665632.658,323939.53
-2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Construction,76,1/08/2026,,6396.8254,6396.8254,1687469.883,Non-Fee Items,1672029.483,323939.53
-2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Construction,90,1/09/2026,,97699.115,97699.115,1785168.998,Non-Fee Items,1769728.598,323939.53
-2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Construction,119,1/09/2026,,5625,5625,1790793.998,Non-Fee Items,1775353.598,323939.53
-00_Programme Management,Actual,LS,36,1/09/2026,,13789.7503,13789.7503,1804583.748,Fee Items,1789143.349,323939.53
-2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Construction,120,1/09/2026,,3095.0226,2459.7285,1807043.476,Fee Items,1792238.371,323939.53
-2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Construction,77,1/09/2026,,4600,4600,1811643.476,Fee Items,1796838.371,323939.53
-2011 Golf Course RBT,2011 Golf Course RBT,Construction,110,1/09/2026,,334265.4028,334265.4028,2145908.879,Non-Fee Items,2131103.774,323939.53
-2006 RISU Signs - Rural Intersection Safety Upgrade,2006 RISU Signs - Rural Intersection Safety Upgrade,Construction,47,1/09/2026,,550.4587,550.4587,2146459.338,Non-Fee Items,2131654.233,323939.53
-2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,Detailed Design,123,1/09/2026,,12708.4746,11694.9153,2158154.253,Fee Items,2144362.707,323939.53
-2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Construction,78,1/09/2026,,23333.3333,23333.3333,2181487.587,Non-Fee Items,2167696.041,323939.53
-2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Construction,76,1/09/2026,,4746.0317,4746.0317,2186233.618,Non-Fee Items,2172442.072,323939.53
-2008 Fernhill Int - concept feasibility traffic assessment,2008 Fernhill Int - concept feasibility traffic assessment,Concept / Scoping,130,1/09/2026,,3600,0,2186233.618,Fee Items,2176042.072,323939.53
-2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Construction,89,1/09/2026,,14973.4513,14973.4513,2201207.07,Fee Items,2191015.524,323939.53
-2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Construction,98,1/09/2026,,6428.5714,6428.5714,2207635.641,Non-Fee Items,2197444.095,323939.53
-2011 Golf Course RBT,2011 Golf Course RBT,Construction,109,1/09/2026,,17772.5118,17772.5118,2225408.153,Fee Items,2215216.607,323939.53
-2008 Fernhill Int - concept feasibility traffic assessment,2008 Fernhill Int - concept feasibility traffic assessment,Concept / Scoping,133,1/09/2026,,8571.4286,9714.2857,2235122.438,Fee Items,2223788.035,323939.53
-2009 Brunswick Int - Upgrade,2009 Brunswick Int - Upgrade,Construction,60,1/09/2026,,63380.2817,80281.6901,2315404.129,Non-Fee Items,2287168.317,323939.53
-2008 Fernhill Int - concept feasibility traffic assessment,2008 Fernhill Int - concept feasibility traffic assessment,Concept / Scoping,132,1/09/2026,,0,25928.5714,2341332.7,Fee Items,2287168.317,323939.53
-2009 Brunswick Int - Upgrade,2009 Brunswick Int - Upgrade,Construction,59,1/09/2026,,16901.4085,16901.4085,2358234.108,Fee Items,2304069.726,323939.53
-2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Construction,121,1/09/2026,,57013.5747,57013.5747,2415247.683,Non-Fee Items,2361083.3,323939.53
-2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Construction,99,1/10/2026,,12843.609,12843.609,2428091.292,Fee Items,2373926.909,323939.53
-00_Programme Management,Actual,LS,36,1/10/2026,,14249.4087,14249.4087,2442340.701,Fee Items,2388176.318,323939.53
-2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Construction,100,1/10/2026,,127067.6692,127067.6692,2569408.37,Non-Fee Items,2515243.987,323939.53
-2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Construction,121,1/10/2026,,196380.0905,196380.0905,2765788.461,Non-Fee Items,2711624.078,323939.53
-2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Construction,120,1/10/2026,,10660.6335,8472.3982,2774260.859,Fee Items,2722284.711,323939.53
-2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Construction,77,1/10/2026,,20371.4286,20371.4286,2794632.287,Fee Items,2742656.14,323939.53
-2011 Golf Course RBT,2011 Golf Course RBT,Construction,110,1/10/2026,,345407.5829,345407.5829,3140039.87,Non-Fee Items,3088063.723,323939.53
-2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,Construction,124,1/10/2026,,4473.6842,8947.3684,3148987.239,Non-Fee Items,3092537.407,323939.53
-2011 Golf Course RBT,2011 Golf Course RBT,Construction,109,1/10/2026,,18364.9289,18364.9289,3167352.168,Fee Items,3110902.336,323939.53
-2009 Brunswick Int - Upgrade,2009 Brunswick Int - Upgrade,Construction,59,1/10/2026,,17464.7887,17464.7887,3184816.956,Fee Items,3128367.124,323939.53
-2009 Brunswick Int - Upgrade,2009 Brunswick Int - Upgrade,Construction,60,1/10/2026,,65492.9577,82957.7465,3267774.703,Non-Fee Items,3193860.082,323939.53
-2006 RISU Signs - Rural Intersection Safety Upgrade,2006 RISU Signs - Rural Intersection Safety Upgrade,Construction,47,1/10/2026,,568.8073,568.8073,3268343.51,Non-Fee Items,3194428.889,323939.53
-2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Construction,90,1/10/2026,,100955.7522,100955.7522,3369299.262,Non-Fee Items,3295384.642,323939.53
-2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Construction,98,1/10/2026,,1071.4286,1071.4286,3370370.691,Non-Fee Items,3296456.07,323939.53
-2008 Fernhill Int - concept feasibility traffic assessment,2008 Fernhill Int - concept feasibility traffic assessment,Concept / Scoping,133,1/10/2026,,21428.5714,24285.7143,3394656.405,Fee Items,3317884.642,323939.53
-2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Construction,78,1/10/2026,,103333.3333,103333.3333,3497989.738,Non-Fee Items,3421217.975,323939.53
-2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Construction,89,1/10/2026,,15472.5664,15472.5664,3513462.305,Fee Items,3436690.541,323939.53
-2008 Fernhill Int - concept feasibility traffic assessment,2008 Fernhill Int - concept feasibility traffic assessment,Concept / Scoping,130,1/10/2026,,3720,0,3513462.305,Fee Items,3440410.541,323939.53
-2009 Brunswick Int - Upgrade,2009 Brunswick Int - Upgrade,Construction,59,1/11/2026,,1690.1408,1690.1408,3515152.446,Fee Items,3442100.682,323939.53
-2009 Brunswick Int - Upgrade,2009 Brunswick Int - Upgrade,Construction,61,1/11/2026,,489.1304,489.1304,3515641.576,Non-Fee Items,3442589.813,323939.53
-2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Construction,100,1/11/2026,,146616.5414,146616.5414,3662258.117,Non-Fee Items,3589206.354,323939.53
-2011 Golf Course RBT,2011 Golf Course RBT,Construction,110,1/11/2026,,334265.4028,334265.4028,3996523.52,Non-Fee Items,3923471.757,323939.53
-2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,Construction,124,1/11/2026,,7894.7368,15789.4737,4012312.994,Non-Fee Items,3931366.494,323939.53
-2011 Golf Course RBT,2011 Golf Course RBT,Construction,109,1/11/2026,,17772.5118,17772.5118,4030085.506,Fee Items,3949139.005,323939.53
-2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Construction,78,1/11/2026,,100000,100000,4130085.506,Non-Fee Items,4049139.005,323939.53
-2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Construction,99,1/11/2026,,14819.5489,14819.5489,4144905.055,Fee Items,4063958.554,323939.53
-2009 Brunswick Int - Upgrade,2009 Brunswick Int - Upgrade,Construction,60,1/11/2026,,6338.0282,8028.169,4152933.224,Non-Fee Items,4070296.582,323939.53
-2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Construction,121,1/11/2026,,190045.2489,190045.2489,4342978.473,Non-Fee Items,4260341.831,323939.53
-2008 Fernhill Int - concept feasibility traffic assessment,2008 Fernhill Int - concept feasibility traffic assessment,Concept / Scoping,130,1/11/2026,,3600,0,4342978.473,Fee Items,4263941.831,323939.53
-2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Construction,90,1/11/2026,,6513.2743,6513.2743,4349491.747,Non-Fee Items,4270455.106,323939.53
-2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Construction,120,1/11/2026,,10316.7421,8199.095,4357690.842,Fee Items,4280771.848,323939.53
-2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Construction,89,1/11/2026,,998.2301,998.2301,4358689.072,Fee Items,4281770.078,323939.53
-2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Construction,77,1/11/2026,,19714.2857,19714.2857,4378403.358,Fee Items,4301484.364,323939.53
-2006 RISU Signs - Rural Intersection Safety Upgrade,2006 RISU Signs - Rural Intersection Safety Upgrade,Construction,47,1/11/2026,,550.4587,550.4587,4378953.816,Non-Fee Items,4302034.822,323939.53
-00_Programme Management,Actual,LS,36,1/11/2026,,13789.7503,13789.7503,4392743.567,Fee Items,4315824.573,323939.53
-2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Construction,91,1/11/2026,,509.0909,509.0909,4393252.658,Non-Fee Items,4316333.663,323939.53
-2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,Construction,124,1/12/2026,,2631.5789,5263.1579,4398515.815,Non-Fee Items,4318965.242,323939.53
-2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,Construction,125,1/12/2026,,12478.2609,4565.2174,4403081.033,Fee Items,4331443.503,323939.53
-2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Construction,121,1/12/2026,,196380.0905,196380.0905,4599461.123,Non-Fee Items,4527823.594,323939.53
-2011 Golf Course RBT,2011 Golf Course RBT,Construction,110,1/12/2026,,345407.5829,345407.5829,4944868.706,Non-Fee Items,4873231.177,323939.53
-2011 Golf Course RBT,2011 Golf Course RBT,Construction,109,1/12/2026,,18364.9289,18364.9289,4963233.635,Fee Items,4891596.106,323939.53
-2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Construction,100,1/12/2026,,151503.7594,151503.7594,5114737.395,Non-Fee Items,5043099.865,323939.53
-2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Construction,77,1/12/2026,,20371.4286,20371.4286,5135108.823,Fee Items,5063471.294,323939.53
-2009 Brunswick Int - Upgrade,2009 Brunswick Int - Upgrade,Construction,61,1/12/2026,,561.5942,561.5942,5135670.417,Non-Fee Items,5064032.888,323939.53
-2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Construction,99,1/12/2026,,15313.5338,15313.5338,5150983.951,Fee Items,5079346.422,323939.53
-00_Programme Management,Actual,LS,36,1/12/2026,,14249.4087,14249.4087,5165233.36,Fee Items,5093595.83,323939.53
-2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Construction,78,1/12/2026,,103333.3333,103333.3333,5268566.693,Non-Fee Items,5196929.164,323939.53
-2006 RISU Signs - Rural Intersection Safety Upgrade,2006 RISU Signs - Rural Intersection Safety Upgrade,Construction,47,1/12/2026,,568.8073,568.8073,5269135.5,Non-Fee Items,5197497.971,323939.53
-2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,Construction,126,1/12/2026,,60869.5652,60869.5652,5330005.066,Non-Fee Items,5258367.536,323939.53
-2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Construction,120,1/12/2026,,10660.6335,8472.3982,5338477.464,Fee Items,5269028.17,323939.53
-2008 Fernhill Int - concept feasibility traffic assessment,2008 Fernhill Int - concept feasibility traffic assessment,Concept / Scoping,130,1/12/2026,,3720,0,5338477.464,Fee Items,5272748.17,323939.53
-2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Construction,91,1/12/2026,,563.6364,563.6364,5339041.1,Non-Fee Items,5273311.806,323939.53
-2008 Fernhill Int - concept feasibility traffic assessment,2008 Fernhill Int - concept feasibility traffic assessment,Concept / Scoping,130,1/01/2027,,3720,0,5339041.1,Fee Items,5277031.806,323939.53
-2011 Golf Course RBT,2011 Golf Course RBT,Construction,109,1/01/2027,,18364.9289,18364.9289,5357406.029,Fee Items,5295396.735,323939.53
-00_Programme Management,Actual,LS,36,1/01/2027,,14249.4087,14249.4087,5371655.438,Fee Items,5309646.144,323939.53
-2006 RISU Signs - Rural Intersection Safety Upgrade,2006 RISU Signs - Rural Intersection Safety Upgrade,Construction,47,1/01/2027,,568.8073,568.8073,5372224.245,Non-Fee Items,5310214.951,323939.53
-2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Construction,121,1/01/2027,,196380.0905,196380.0905,5568604.336,Non-Fee Items,5506595.041,323939.53
-2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Construction,79,1/01/2027,,457.0384,457.0384,5569061.374,Non-Fee Items,5507052.08,323939.53
-2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,Construction,125,1/01/2027,,18420.2899,6739.1304,5575800.504,Fee Items,5525472.37,323939.53
-2011 Golf Course RBT,2011 Golf Course RBT,Construction,110,1/01/2027,,345407.5829,345407.5829,5921208.087,Non-Fee Items,5870879.953,323939.53
-2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Construction,100,1/01/2027,,151503.7594,151503.7594,6072711.847,Non-Fee Items,6022383.712,323939.53
-2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Construction,77,1/01/2027,,3942.8571,3942.8571,6076654.704,Fee Items,6026326.569,323939.53
-2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Construction,99,1/01/2027,,15313.5338,15313.5338,6091968.238,Fee Items,6041640.103,323939.53
-2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Construction,78,1/01/2027,,20000,20000,6111968.238,Non-Fee Items,6061640.103,323939.53
-2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Construction,120,1/01/2027,,10660.6335,8472.3982,6120440.636,Fee Items,6072300.736,323939.53
-2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,Construction,126,1/01/2027,,89855.0725,89855.0725,6210295.708,Non-Fee Items,6162155.809,323939.53
-2009 Brunswick Int - Upgrade,2009 Brunswick Int - Upgrade,Construction,61,1/01/2027,,561.5942,561.5942,6210857.303,Non-Fee Items,6162717.403,323939.53
-2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Construction,91,1/01/2027,,563.6364,563.6364,6211420.939,Non-Fee Items,6163281.039,323939.53
-2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Construction,79,1/02/2027,,511.883,511.883,6211932.822,Non-Fee Items,6163792.922,323939.53
-2011 Golf Course RBT,2011 Golf Course RBT,Construction,109,1/02/2027,,16587.6777,16587.6777,6228520.5,Fee Items,6180380.6,323939.53
-2011 Golf Course RBT,2011 Golf Course RBT,Construction,110,1/02/2027,,311981.0427,311981.0427,6540501.542,Non-Fee Items,6492361.643,323939.53
-2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Construction,120,1/02/2027,,9628.9593,7652.4887,6548154.031,Fee Items,6501990.602,323939.53
-2006 RISU Signs - Rural Intersection Safety Upgrade,2006 RISU Signs - Rural Intersection Safety Upgrade,Construction,47,1/02/2027,,513.7615,513.7615,6548667.793,Non-Fee Items,6502504.364,323939.53
-2008 Fernhill Int - concept feasibility traffic assessment,Actual,Concept / Scoping,134,1/02/2027,,0,34001,6582668.793,Fee Items,6502504.364,323939.53
-2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Construction,101,1/02/2027,,237.2263,237.2263,6582906.019,Non-Fee Items,6502741.59,323939.53
-2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,Construction,127,1/02/2027,,31884.058,31884.058,6614790.077,Non-Fee Items,6534625.648,323939.53
-2009 Brunswick Int - Upgrade,2009 Brunswick Int - Upgrade,Construction,61,1/02/2027,,507.2464,507.2464,6615297.323,Non-Fee Items,6535132.894,323939.53
-2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Construction,99,1/02/2027,,7409.7744,7409.7744,6622707.098,Fee Items,6542542.669,323939.53
-2008 Fernhill Int - concept feasibility traffic assessment,2008 Fernhill Int - concept feasibility traffic assessment,Concept / Scoping,131,1/02/2027,,0,6966.6667,6629673.764,Fee Items,6542542.669,323939.53
-2008 Fernhill Int - concept feasibility traffic assessment,2008 Fernhill Int - concept feasibility traffic assessment,Concept / Scoping,130,1/02/2027,,1080,0,6629673.764,Fee Items,6543622.669,323939.53
-2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Construction,91,1/02/2027,,509.0909,509.0909,6630182.855,Non-Fee Items,6544131.76,323939.53
-2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Construction,121,1/02/2027,,177375.5656,177375.5656,6807558.421,Non-Fee Items,6721507.325,323939.53
-00_Programme Management,Actual,LS,36,1/02/2027,,12870.4336,12870.4336,6820428.854,Fee Items,6734377.759,323939.53
-2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,Construction,125,1/02/2027,,16637.6812,6086.9565,6826515.811,Fee Items,6751015.44,323939.53
-2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,Construction,126,1/02/2027,,49275.3623,49275.3623,6875791.173,Non-Fee Items,6800290.802,323939.53
-2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Construction,100,1/02/2027,,73308.2707,73308.2707,6949099.444,Non-Fee Items,6873599.073,323939.53
-2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,Construction,127,1/03/2027,,89855.0725,89855.0725,7038954.516,Non-Fee Items,6963454.146,323939.53
-2009 Brunswick Int - Upgrade,2009 Brunswick Int - Upgrade,Construction,61,1/03/2027,,561.5942,561.5942,7039516.111,Non-Fee Items,6964015.74,323939.53
-2011 Golf Course RBT,2011 Golf Course RBT,Construction,111,1/03/2027,,36.8324,36.8324,7039552.943,Non-Fee Items,6964052.572,323939.53
-2011 Golf Course RBT,2011 Golf Course RBT,Construction,110,1/03/2027,,278554.5024,278554.5024,7318107.445,Non-Fee Items,7242607.075,323939.53
-2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,Construction,125,1/03/2027,,18420.2899,6739.1304,7324846.576,Fee Items,7261027.364,323939.53
-2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Construction,91,1/03/2027,,563.6364,563.6364,7325410.212,Non-Fee Items,7261591.001,323939.53
-2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Construction,79,1/03/2027,,566.7276,566.7276,7325976.94,Non-Fee Items,7262157.728,323939.53
-2011 Golf Course RBT,2011 Golf Course RBT,Construction,109,1/03/2027,,14810.4265,14810.4265,7340787.366,Fee Items,7276968.155,323939.53
-00_Programme Management,Actual,LS,36,1/03/2027,,14249.4087,14249.4087,7355036.775,Fee Items,7291217.564,323939.53
-2008 Fernhill Int - concept feasibility traffic assessment,2008 Fernhill Int - concept feasibility traffic assessment,Concept / Scoping,131,1/03/2027,,0,11366.6667,7366403.442,Fee Items,7291217.564,323939.53
-2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Construction,120,1/03/2027,,10660.6335,8472.3982,7374875.84,Fee Items,7301878.197,323939.53
-2006 RISU Signs - Rural Intersection Safety Upgrade,2006 RISU Signs - Rural Intersection Safety Upgrade,Construction,47,1/03/2027,,568.8073,568.8073,7375444.647,Non-Fee Items,7302447.004,323939.53
-2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Construction,101,1/03/2027,,565.6934,565.6934,7376010.341,Non-Fee Items,7303012.698,323939.53
-2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Construction,121,1/03/2027,,196380.0905,196380.0905,7572390.431,Non-Fee Items,7499392.788,323939.53
-2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Construction,91,1/04/2027,,545.4545,545.4545,7572935.886,Non-Fee Items,7499938.243,323939.53
-2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,Construction,127,1/04/2027,,78260.8696,78260.8696,7651196.755,Non-Fee Items,7578199.112,323939.53
-2008 Fernhill Int - concept feasibility traffic assessment,2008 Fernhill Int - concept feasibility traffic assessment,Concept / Scoping,131,1/04/2027,,0,11000,7662196.755,Fee Items,7578199.112,323939.53
-2011 Golf Course RBT,2011 Golf Course RBT,Construction,111,1/04/2027,,552.4862,552.4862,7662749.241,Non-Fee Items,7578751.599,323939.53
-2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,Construction,125,1/04/2027,,16043.4783,5869.5652,7668618.807,Fee Items,7594795.077,323939.53
-2006 RISU Signs - Rural Intersection Safety Upgrade,2006 RISU Signs - Rural Intersection Safety Upgrade,Construction,47,1/04/2027,,550.4587,550.4587,7669169.265,Non-Fee Items,7595345.536,323939.53
-2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Construction,101,1/04/2027,,547.4453,547.4453,7669716.711,Non-Fee Items,7595892.981,323939.53
-00_Programme Management,Actual,LS,36,1/04/2027,,13789.7503,13789.7503,7683506.461,Fee Items,7609682.731,323939.53
-2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Construction,121,1/04/2027,,190045.2489,190045.2489,7873551.71,Non-Fee Items,7799727.98,323939.53
-2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Construction,79,1/04/2027,,548.4461,548.4461,7874100.156,Non-Fee Items,7800276.426,323939.53
-2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Construction,120,1/04/2027,,10316.7421,8199.095,7882299.251,Fee Items,7810593.168,323939.53
-2009 Brunswick Int - Upgrade,2009 Brunswick Int - Upgrade,Construction,61,1/04/2027,,543.4783,543.4783,7882842.729,Non-Fee Items,7811136.647,323939.53
-00_Programme Management,Actual,LS,36,1/05/2027,,14249.4087,14249.4087,7897092.138,Fee Items,7825386.055,323939.53
-2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Construction,122,1/05/2027,,534.07,534.07,7897626.208,Non-Fee Items,7825920.125,323939.53
-2008 Fernhill Int - concept feasibility traffic assessment,2008 Fernhill Int - concept feasibility traffic assessment,Concept / Scoping,131,1/05/2027,,0,3666.6667,7901292.875,Fee Items,7825920.125,323939.53
-2006 RISU Signs - Rural Intersection Safety Upgrade,2006 RISU Signs - Rural Intersection Safety Upgrade,Construction,47,1/05/2027,,568.8073,568.8073,7901861.682,Non-Fee Items,7826488.933,323939.53
-2011 Golf Course RBT,2011 Golf Course RBT,Construction,111,1/05/2027,,570.9024,570.9024,7902432.584,Non-Fee Items,7827059.835,323939.53
-2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Construction,91,1/05/2027,,563.6364,563.6364,7902996.221,Non-Fee Items,7827623.471,323939.53
-2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Construction,101,1/05/2027,,565.6934,565.6934,7903561.914,Non-Fee Items,7828189.165,323939.53
-2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Construction,79,1/05/2027,,566.7276,566.7276,7904128.642,Non-Fee Items,7828755.892,323939.53
-2009 Brunswick Int - Upgrade,2009 Brunswick Int - Upgrade,Construction,61,1/05/2027,,561.5942,561.5942,7904690.236,Non-Fee Items,7829317.487,323939.53
-2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Construction,122,1/06/2027,,552.4862,552.4862,7905242.722,Non-Fee Items,7829869.973,323939.53
-2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Construction,79,1/06/2027,,548.4461,548.4461,7905791.168,Non-Fee Items,7830418.419,323939.53
-2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Construction,101,1/06/2027,,547.4453,547.4453,7906338.614,Non-Fee Items,7830965.864,323939.53
-00_Programme Management,Actual,LS,36,1/06/2027,,13330.092,13330.092,7919668.706,Fee Items,7844295.956,323939.53
-2009 Brunswick Int - Upgrade,2009 Brunswick Int - Upgrade,Construction,61,1/06/2027,,543.4783,543.4783,7920212.184,Non-Fee Items,7844839.435,323939.53
-2006 RISU Signs - Rural Intersection Safety Upgrade,2006 RISU Signs - Rural Intersection Safety Upgrade,Construction,47,1/06/2027,,550.4587,550.4587,7920762.643,Non-Fee Items,7845389.893,323939.53
-2011 Golf Course RBT,2011 Golf Course RBT,Construction,111,1/06/2027,,552.4862,552.4862,7921315.129,Non-Fee Items,7845942.379,323939.53
-2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Construction,91,1/06/2027,,545.4545,545.4545,7921860.583,Non-Fee Items,7846487.834,323939.53
-2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Construction,79,1/07/2027,,566.7276,566.7276,7922427.311,Non-Fee Items,7847054.562,323939.53
-2011 Golf Course RBT,2011 Golf Course RBT,Construction,111,1/07/2027,,570.9024,570.9024,7922998.213,Non-Fee Items,7847625.464,323939.53
-2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Construction,91,1/07/2027,,563.6364,563.6364,7923561.85,Non-Fee Items,7848189.1,323939.53
-2009 Brunswick Int - Upgrade,2009 Brunswick Int - Upgrade,Construction,61,1/07/2027,,561.5942,561.5942,7924123.444,Non-Fee Items,7848750.695,323939.53
-2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Construction,101,1/07/2027,,565.6934,565.6934,7924689.137,Non-Fee Items,7849316.388,323939.53
-2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Construction,122,1/07/2027,,570.9024,570.9024,7925260.04,Non-Fee Items,7849887.29,323939.53
-2006 RISU Signs - Rural Intersection Safety Upgrade,2006 RISU Signs - Rural Intersection Safety Upgrade,Construction,47,1/07/2027,,568.8073,568.8073,7925828.847,Non-Fee Items,7850456.098,323939.53
-2011 Golf Course RBT,2011 Golf Course RBT,Construction,111,1/08/2027,,570.9024,570.9024,7926399.749,Non-Fee Items,7851027,323939.53
-2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Construction,91,1/08/2027,,563.6364,563.6364,7926963.386,Non-Fee Items,7851590.636,323939.53
-2009 Brunswick Int - Upgrade,2009 Brunswick Int - Upgrade,Construction,61,1/08/2027,,561.5942,561.5942,7927524.98,Non-Fee Items,7852152.231,323939.53
-2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Construction,101,1/08/2027,,565.6934,565.6934,7928090.673,Non-Fee Items,7852717.924,323939.53
-2006 RISU Signs - Rural Intersection Safety Upgrade,2006 RISU Signs - Rural Intersection Safety Upgrade,Construction,47,1/08/2027,,568.8073,568.8073,7928659.481,Non-Fee Items,7853286.731,323939.53
-2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Construction,79,1/08/2027,,566.7276,566.7276,7929226.208,Non-Fee Items,7853853.459,323939.53
-2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Construction,122,1/08/2027,,570.9024,570.9024,7929797.111,Non-Fee Items,7854424.361,323939.53
-2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Construction,91,1/09/2027,,545.4545,545.4545,7930342.565,Non-Fee Items,7854969.816,323939.53
-2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Construction,122,1/09/2027,,552.4862,552.4862,7930895.051,Non-Fee Items,7855522.302,323939.53
-2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Construction,101,1/09/2027,,547.4453,547.4453,7931442.497,Non-Fee Items,7856069.747,323939.53
-2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Construction,79,1/09/2027,,548.4461,548.4461,7931990.943,Non-Fee Items,7856618.193,323939.53
-2009 Brunswick Int - Upgrade,2009 Brunswick Int - Upgrade,Construction,61,1/09/2027,,543.4783,543.4783,7932534.421,Non-Fee Items,7857161.672,323939.53
-2006 RISU Signs - Rural Intersection Safety Upgrade,2006 RISU Signs - Rural Intersection Safety Upgrade,Construction,47,1/09/2027,,550.4587,550.4587,7933084.88,Non-Fee Items,7857712.13,323939.53
-2011 Golf Course RBT,2011 Golf Course RBT,Construction,111,1/09/2027,,552.4862,552.4862,7933637.366,Non-Fee Items,7858264.617,323939.53
-2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Construction,101,1/10/2027,,565.6934,565.6934,7934203.059,Non-Fee Items,7858830.31,323939.53
-2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Construction,79,1/10/2027,,566.7276,566.7276,7934769.787,Non-Fee Items,7859397.038,323939.53
-2006 RISU Signs - Rural Intersection Safety Upgrade,2006 RISU Signs - Rural Intersection Safety Upgrade,Construction,47,1/10/2027,,330.2752,330.2752,7935100.062,Non-Fee Items,7859727.313,323939.53
-2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Construction,122,1/10/2027,,570.9024,570.9024,7935670.965,Non-Fee Items,7860298.215,323939.53
-2009 Brunswick Int - Upgrade,2009 Brunswick Int - Upgrade,Construction,61,1/10/2027,,561.5942,561.5942,7936232.559,Non-Fee Items,7860859.809,323939.53
-2011 Golf Course RBT,2011 Golf Course RBT,Construction,111,1/10/2027,,570.9024,570.9024,7936803.461,Non-Fee Items,7861430.712,323939.53
-2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Construction,91,1/10/2027,,563.6364,563.6364,7937367.098,Non-Fee Items,7861994.348,323939.53
-2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Construction,101,1/11/2027,,547.4453,547.4453,7937914.543,Non-Fee Items,7862541.794,323939.53
-2009 Brunswick Int - Upgrade,2009 Brunswick Int - Upgrade,Construction,61,1/11/2027,,543.4783,543.4783,7938458.021,Non-Fee Items,7863085.272,323939.53
-2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Construction,91,1/11/2027,,545.4545,545.4545,7939003.476,Non-Fee Items,7863630.726,323939.53
-2011 Golf Course RBT,2011 Golf Course RBT,Construction,111,1/11/2027,,552.4862,552.4862,7939555.962,Non-Fee Items,7864183.213,323939.53
-2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Construction,79,1/11/2027,,548.4461,548.4461,7940104.408,Non-Fee Items,7864731.659,323939.53
-2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Construction,122,1/11/2027,,552.4862,552.4862,7940656.894,Non-Fee Items,7865284.145,323939.53
-2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Construction,101,1/12/2027,,565.6934,565.6934,7941222.588,Non-Fee Items,7865849.838,323939.53
-2009 Brunswick Int - Upgrade,2009 Brunswick Int - Upgrade,Construction,61,1/12/2027,,561.5942,561.5942,7941784.182,Non-Fee Items,7866411.432,323939.53
-2011 Golf Course RBT,2011 Golf Course RBT,Construction,111,1/12/2027,,570.9024,570.9024,7942355.084,Non-Fee Items,7866982.335,323939.53
-2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Construction,122,1/12/2027,,570.9024,570.9024,7942925.987,Non-Fee Items,7867553.237,323939.53
-2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Construction,91,1/12/2027,,563.6364,563.6364,7943489.623,Non-Fee Items,7868116.874,323939.53
-2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Construction,79,1/12/2027,,566.7276,566.7276,7944056.351,Non-Fee Items,7868683.601,323939.53
-2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Construction,122,1/01/2028,,570.9024,570.9024,7944627.253,Non-Fee Items,7869254.504,323939.53
-2011 Golf Course RBT,2011 Golf Course RBT,Construction,111,1/01/2028,,570.9024,570.9024,7945198.155,Non-Fee Items,7869825.406,323939.53
-2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Construction,91,1/01/2028,,563.6364,563.6364,7945761.792,Non-Fee Items,7870389.042,323939.53
-2009 Brunswick Int - Upgrade,2009 Brunswick Int - Upgrade,Construction,61,1/01/2028,,561.5942,561.5942,7946323.386,Non-Fee Items,7870950.637,323939.53
-2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Construction,101,1/01/2028,,565.6934,565.6934,7946889.079,Non-Fee Items,7871516.33,323939.53
-2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Construction,79,1/01/2028,,566.7276,566.7276,7947455.807,Non-Fee Items,7872083.058,323939.53
-2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Construction,79,1/02/2028,,530.1645,530.1645,7947985.971,Non-Fee Items,7872613.222,323939.53
-2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Construction,91,1/02/2028,,527.2727,527.2727,7948513.244,Non-Fee Items,7873140.495,323939.53
-2009 Brunswick Int - Upgrade,2009 Brunswick Int - Upgrade,Construction,61,1/02/2028,,525.3623,525.3623,7949038.606,Non-Fee Items,7873665.857,323939.53
-2011 Golf Course RBT,2011 Golf Course RBT,Construction,111,1/02/2028,,534.07,534.07,7949572.676,Non-Fee Items,7874199.927,323939.53
-2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Construction,122,1/02/2028,,534.07,534.07,7950106.746,Non-Fee Items,7874733.997,323939.53
-2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Construction,101,1/02/2028,,529.1971,529.1971,7950635.944,Non-Fee Items,7875263.194,323939.53
-2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Construction,101,1/03/2028,,565.6934,565.6934,7951201.637,Non-Fee Items,7875828.888,323939.53
-2011 Golf Course RBT,2011 Golf Course RBT,Construction,111,1/03/2028,,570.9024,570.9024,7951772.539,Non-Fee Items,7876399.79,323939.53
-2009 Brunswick Int - Upgrade,2009 Brunswick Int - Upgrade,Construction,61,1/03/2028,,561.5942,561.5942,7952334.134,Non-Fee Items,7876961.384,323939.53
-2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Construction,91,1/03/2028,,563.6364,563.6364,7952897.77,Non-Fee Items,7877525.021,323939.53
-2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Construction,122,1/03/2028,,570.9024,570.9024,7953468.672,Non-Fee Items,7878095.923,323939.53
-2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Construction,79,1/03/2028,,566.7276,566.7276,7954035.4,Non-Fee Items,7878662.651,323939.53
-2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Construction,122,1/04/2028,,552.4862,552.4862,7954587.886,Non-Fee Items,7879215.137,323939.53
-2009 Brunswick Int - Upgrade,2009 Brunswick Int - Upgrade,Construction,61,1/04/2028,,543.4783,543.4783,7955131.364,Non-Fee Items,7879758.615,323939.53
-2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Construction,91,1/04/2028,,545.4545,545.4545,7955676.819,Non-Fee Items,7880304.07,323939.53
-2011 Golf Course RBT,2011 Golf Course RBT,Construction,111,1/04/2028,,552.4862,552.4862,7956229.305,Non-Fee Items,7880856.556,323939.53
-2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Construction,101,1/04/2028,,547.4453,547.4453,7956776.75,Non-Fee Items,7881404.001,323939.53
-2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Construction,79,1/04/2028,,548.4461,548.4461,7957325.197,Non-Fee Items,7881952.447,323939.53
-2009 Brunswick Int - Upgrade,2009 Brunswick Int - Upgrade,Construction,61,1/05/2028,,144.9275,144.9275,7957470.124,Non-Fee Items,7882097.375,323939.53
-2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Construction,79,1/05/2028,,566.7276,566.7276,7958036.852,Non-Fee Items,7882664.102,323939.53
-2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Construction,91,1/05/2028,,90.9091,90.9091,7958127.761,Non-Fee Items,7882755.011,323939.53
-2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Construction,122,1/05/2028,,570.9024,570.9024,7958698.663,Non-Fee Items,7883325.914,323939.53
-2011 Golf Course RBT,2011 Golf Course RBT,Construction,111,1/05/2028,,570.9024,570.9024,7959269.566,Non-Fee Items,7883896.816,323939.53
-2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Construction,101,1/05/2028,,565.6934,565.6934,7959835.259,Non-Fee Items,7884462.51,323939.53
-2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Construction,122,1/06/2028,,552.4862,552.4862,7960387.745,Non-Fee Items,7885014.996,323939.53
-2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Construction,79,1/06/2028,,548.4461,548.4461,7960936.191,Non-Fee Items,7885563.442,323939.53
-2011 Golf Course RBT,2011 Golf Course RBT,Construction,111,1/06/2028,,552.4862,552.4862,7961488.677,Non-Fee Items,7886115.928,323939.53
-2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Construction,101,1/06/2028,,547.4453,547.4453,7962036.123,Non-Fee Items,7886663.373,323939.53
-2011 Golf Course RBT,2011 Golf Course RBT,Construction,111,1/07/2028,,570.9024,570.9024,7962607.025,Non-Fee Items,7887234.276,323939.53
-2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Construction,79,1/07/2028,,109.6892,109.6892,7962716.714,Non-Fee Items,7887343.965,323939.53
-2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Construction,101,1/07/2028,,565.6934,565.6934,7963282.408,Non-Fee Items,7887909.658,323939.53
-2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Construction,122,1/07/2028,,570.9024,570.9024,7963853.31,Non-Fee Items,7888480.561,323939.53
-2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Construction,122,1/08/2028,,570.9024,570.9024,7964424.213,Non-Fee Items,7889051.463,323939.53
-2011 Golf Course RBT,2011 Golf Course RBT,Construction,111,1/08/2028,,570.9024,570.9024,7964995.115,Non-Fee Items,7889622.366,323939.53
-2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Construction,101,1/08/2028,,291.9708,291.9708,7965287.086,Non-Fee Items,7889914.336,323939.53
-2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Construction,122,1/09/2028,,552.4862,552.4862,7965839.572,Non-Fee Items,7890466.823,323939.53
-2011 Golf Course RBT,2011 Golf Course RBT,Construction,111,1/09/2028,,405.1565,405.1565,7966244.728,Non-Fee Items,7890871.979,323939.53
-2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Construction,122,1/10/2028,,478.8214,478.8214,7966723.55,Non-Fee Items,7891350.801,323939.53
+00_Programme Management,Actual,LS,37,1/05/2025,,919.3167,919.3167,919.3167,Fee Items,919.3167,
+00_Programme Management,00_Programme Management,LS,1,1/06/2025,13992,0.55,0.55,919.8667,Fee Items,919.8667,13992
+00_Programme Management,Actual,LS,37,1/06/2025,,13789.7503,13789.7503,14709.617,Fee Items,14709.617,13992
+2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Concept / Scoping,81,1/06/2025,,1000,0.55,14710.167,Fee Items,15709.617,13992
+2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Concept / Scoping,113,1/07/2025,,666,1000,15710.167,Fee Items,16375.617,13992
+00_Programme Management,Actual,LS,37,1/07/2025,,14249.4087,14249.4087,29959.5757,Fee Items,30625.0257,13992
+2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Concept / Scoping,93,1/07/2025,,2210.5263,2210.5263,32170.102,Fee Items,32835.552,13992
+2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Concept / Scoping,114,1/07/2025,,1500,1600,33770.102,Fee Items,34335.552,13992
+2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Concept / Scoping,85,1/07/2025,,4160,0.55,33770.652,Fee Items,38495.552,13992
+2006 RISU Signs - Rural Intersection Safety Upgrade,2006 RISU Signs - Rural Intersection Safety Upgrade,Concept / Scoping,38,1/07/2025,,1094.6571,565.7143,34336.3663,Fee Items,39590.2091,13992
+2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Concept / Scoping,84,1/07/2025,,940,0.55,34336.9163,Fee Items,40530.2091,13992
+2003 Wanaka TC - CBD connectivity upgrades,2003 - Wanaka TC,Concept / Scoping,17,1/07/2025,3665.61,0.55,0.55,34337.4663,Fee Items,40530.7591,17657.61
+2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Variation,68,1/07/2025,,2700,2700,37037.4663,Fee Items,43230.7591,17657.61
+2004 Arthurs Point - traffic calming,Actual,Concept / Scoping,67,1/07/2025,,2000,2000,39037.4663,Fee Items,45230.7591,17657.61
+2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Concept / Scoping,65,1/07/2025,,1977.0667,1466.6667,40504.133,Fee Items,47207.8258,17657.61
+2002 Glenorchy TC - Township improvements,2002 - Glenorchy TC,Concept / Scoping,10,1/07/2025,3429.87,0.55,0.55,40504.683,Fee Items,47208.3758,21087.48
+2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Concept / Scoping,64,1/07/2025,,3000,2000,42504.683,Fee Items,50208.3758,21087.48
+2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Concept / Scoping,63,1/07/2025,,3000,2000,44504.683,Fee Items,53208.3758,21087.48
+2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Concept / Scoping,83,1/07/2025,,184,0.55,44505.233,Fee Items,53392.3758,21087.48
+2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Concept / Scoping,82,1/07/2025,,1000,0.55,44505.783,Fee Items,54392.3758,21087.48
+2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Concept / Scoping,115,1/07/2025,,1500,1500,46005.783,Fee Items,55892.3758,21087.48
+00_Programme Management,00_Programme Management,LS,2,1/07/2025,13992,0.55,0.55,46006.333,Fee Items,55892.9258,35079.48
+2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Concept / Scoping,66,1/07/2025,,2000,2000,48006.333,Fee Items,57892.9258,35079.48
+2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Concept / Scoping,65,1/08/2025,,718.9333,533.3333,48539.6663,Fee Items,58611.8591,35079.48
+2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Variation,69,1/08/2025,,772.2772,257.4257,48797.092,Fee Items,59384.1363,35079.48
+2006 RISU Signs - Rural Intersection Safety Upgrade,2006 RISU Signs - Rural Intersection Safety Upgrade,Concept / Scoping,39,1/08/2025,,0,1571.4286,50368.5206,Fee Items,59384.1363,35079.48
+2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Concept / Scoping,116,1/08/2025,,0,1500,51868.5206,Fee Items,59384.1363,35079.48
+00_Programme Management,Actual,LS,37,1/08/2025,,14249.4087,14249.4087,66117.9293,Fee Items,73633.545,35079.48
+2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Concept / Scoping,93,1/08/2025,,3807.0175,3807.0175,69924.9468,Fee Items,77440.5625,35079.48
+2006 RISU Signs - Rural Intersection Safety Upgrade,2006 RISU Signs - Rural Intersection Safety Upgrade,Concept / Scoping,38,1/08/2025,,3162.3429,1634.2857,71559.2325,Fee Items,80602.9054,35079.48
+2004 Arthurs Point - traffic calming,2004 - Aruthrs Point,Concept / Scoping,20,1/08/2025,10909.22,0.55,0.55,71559.7825,Fee Items,80603.4554,45988.7
+2005 Crown Range Passing Lanes,2005 - CR Passing Lanes,Detailed Design,21,1/08/2025,9140,0.55,0.55,71560.3325,Fee Items,80604.0054,55128.7
+00_Programme Management,00_Programme Management,LS,3,1/08/2025,13992,0.55,0.55,71560.8825,Fee Items,80604.5554,69120.7
+2006 RISU Signs - Rural Intersection Safety Upgrade,2006 - RISU Signs,Concept / Scoping,24,1/08/2025,4256.63,0.55,0.55,71561.4325,Fee Items,80605.1054,73377.33
+2002 Glenorchy TC - Township improvements,2002 - Glenorchy TC,Concept / Scoping,11,1/08/2025,3854.2,0.55,0.55,71561.9825,Fee Items,80605.6554,77231.53
+2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Concept / Scoping,117,1/09/2025,,12916.2222,13000,84561.9825,Fee Items,93521.8776,77231.53
+2003 Wanaka TC - CBD connectivity upgrades,2003 - Wanaka TC,Concept / Scoping,18,1/09/2025,12860,0.55,0.55,84562.5325,Fee Items,93522.4276,90091.53
+2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Variation,69,1/09/2025,,891.0891,297.0297,84859.5622,Fee Items,94413.5167,90091.53
+2006 RISU Signs - Rural Intersection Safety Upgrade,2006 RISU Signs - Rural Intersection Safety Upgrade,Concept / Scoping,40,1/09/2025,,0,1760,86619.5622,Fee Items,94413.5167,90091.53
+00_Programme Management,00_Programme Management,LS,4,1/09/2025,13992,0.55,0.55,86620.1122,Fee Items,94414.0667,104083.53
+2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Concept / Scoping,94,1/09/2025,,2140,1300,87920.1122,Fee Items,96554.0667,104083.53
+2009 Brunswick Int - Upgrade,2009 Brunswick Int - Upgrade,Concept / Scoping,55,1/09/2025,,1306,1300,89220.1122,Fee Items,97860.0667,104083.53
+2006 RISU Signs - Rural Intersection Safety Upgrade,2006 RISU Signs - Rural Intersection Safety Upgrade,Concept / Scoping,39,1/09/2025,,0,628.5714,89848.6836,Fee Items,97860.0667,104083.53
+00_Programme Management,Actual,LS,37,1/09/2025,,13789.7503,13789.7503,103638.4339,Fee Items,111649.817,104083.53
+2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Concept / Scoping,93,1/09/2025,,982.4561,982.4561,104620.89,Fee Items,112632.2731,104083.53
+2007 RISU Bundle - Rural Intersection Safety Upgrades,2007 - RISU Signs,Concept / Scoping,27,1/10/2025,4488,0.55,0.55,104621.44,Fee Items,112632.8231,108571.53
+00_Programme Management,00_Programme Management,LS,5,1/10/2025,13992,0.55,0.55,104621.99,Fee Items,112633.3731,122563.53
+2006 RISU Signs - Rural Intersection Safety Upgrade,2006 RISU Signs - Rural Intersection Safety Upgrade,Concept / Scoping,40,1/10/2025,,0,440,105061.99,Fee Items,112633.3731,122563.53
+2006 RISU Signs - Rural Intersection Safety Upgrade,2006 RISU Signs - Rural Intersection Safety Upgrade,Detailed Design,41,1/10/2025,,2483.3333,6666.6667,111728.6567,Fee Items,115116.7064,122563.53
+2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Detailed Design,86,1/10/2025,,0,5000,116728.6567,Fee Items,115116.7064,122563.53
+2009 Brunswick Int - Upgrade,2009 Brunswick Int - Upgrade,Concept / Scoping,57,1/10/2025,,1162.7907,1162.7907,117891.4474,Fee Items,116279.4971,122563.53
+2002 Glenorchy TC - Township improvements,2002 - Glenorchy TC,Detailed Design,12,1/10/2025,10612,0.55,0.55,117891.9974,Fee Items,116280.0471,133175.53
+2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Variation,69,1/10/2025,,920.7921,306.9307,118198.9281,Fee Items,117200.8392,133175.53
+00_Programme Management,Actual,LS,37,1/10/2025,,14249.4087,14249.4087,132448.3368,Fee Items,131450.2479,133175.53
+2011 Golf Course RBT,2011 - RISU Signs,Concept / Scoping,35,1/10/2025,3082,0.55,0.55,132448.8868,Fee Items,131450.7979,136257.53
+2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Concept / Scoping,74,1/10/2025,,782.0225,539.3258,132988.2126,Fee Items,132232.8204,136257.53
+2007 RISU Bundle - Rural Intersection Safety Upgrades,2007 RISU Bundle - Rural Intersection Safety Upgrades,Detailed Design,49,1/10/2025,,0,4000,136988.2126,Fee Items,132232.8204,136257.53
+2007 RISU Bundle - Rural Intersection Safety Upgrades,2007 RISU Bundle - Rural Intersection Safety Upgrades,Detailed Design,50,1/10/2025,,11336.8421,12631.5789,149619.7915,Fee Items,143569.6625,136257.53
+2009 Brunswick Int - Upgrade,2009 Brunswick Int - Upgrade,Concept / Scoping,56,1/10/2025,,12000,12000,161619.7915,Fee Items,155569.6625,136257.53
+2009 Brunswick Int - Upgrade,2009 - RISU Signs,Concept / Scoping,32,1/10/2025,11266,0.55,0.55,161620.3415,Fee Items,155570.2125,147523.53
+2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Concept / Scoping,117,1/10/2025,,4967.7778,5000,166620.3415,Fee Items,160537.9903,147523.53
+2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Variation,69,1/11/2025,,415.8416,138.6139,166758.9554,Fee Items,160953.8319,147523.53
+2002 Glenorchy TC - Township improvements,2002 - Glenorchy TC,Concept / Scoping,16,1/11/2025,5366,0.55,0.55,166759.5054,Fee Items,160954.3819,152889.53
+2002 Glenorchy TC - Township improvements,2002 - Glenorchy TC,Detailed Design,13,1/11/2025,6368,0.55,0.55,166760.0554,Fee Items,160954.9319,159257.53
+2006 RISU Signs - Rural Intersection Safety Upgrade,2006 RISU Signs - Rural Intersection Safety Upgrade,Detailed Design,41,1/11/2025,,4966.6667,13333.3333,180093.3887,Fee Items,165921.5986,159257.53
+00_Programme Management,00_Programme Management,LS,6,1/11/2025,13992,0.55,0.55,180093.9387,Fee Items,165922.1486,173249.53
+2007 RISU Bundle - Rural Intersection Safety Upgrades,2007 RISU Bundle - Rural Intersection Safety Upgrades,Detailed Design,50,1/11/2025,,6613.1579,7368.4211,187462.3598,Fee Items,172535.3065,173249.53
+2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Variation,71,1/11/2025,,3000,1000,188462.3598,Fee Items,175535.3065,173249.53
+2007 RISU Bundle - Rural Intersection Safety Upgrades,2007 - RISU Signs,Concept / Scoping,28,1/11/2025,4488,0.55,0.55,188462.9098,Fee Items,175535.8565,177737.53
+2011 Golf Course RBT,2011 - RISU Signs,Concept / Scoping,36,1/11/2025,1130,0.55,0.55,188463.4598,Fee Items,175536.4065,178867.53
+2006 RISU Signs - Rural Intersection Safety Upgrade,2006 - RISU Signs,Concept / Scoping,25,1/11/2025,1490,0.55,0.55,188464.0098,Fee Items,175536.9565,180357.53
+2009 Brunswick Int - Upgrade,2009 - RISU Signs,Concept / Scoping,33,1/11/2025,2510,0.55,0.55,188464.5598,Fee Items,175537.5065,182867.53
+00_Programme Management,Actual,LS,37,1/11/2025,,13789.7503,13789.7503,202254.3101,Fee Items,189327.2568,182867.53
+2003 Wanaka TC - CBD connectivity upgrades,2003 - Wanaka TC,Concept / Scoping,19,1/11/2025,1100,0.55,0.55,202254.8601,Fee Items,189327.8068,183967.53
+2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Concept / Scoping,74,1/11/2025,,1955.0562,1348.3146,203603.1747,Fee Items,191282.863,183967.53
+2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Concept / Scoping,95,1/11/2025,,5191.6667,0,203603.1747,Fee Items,196474.5297,183967.53
+2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Detailed Design,87,1/11/2025,,4969,4000,207603.1747,Fee Items,201443.5297,183967.53
+2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Variation,72,1/11/2025,,3000,1000,208603.1747,Fee Items,204443.5297,183967.53
+2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Variation,70,1/11/2025,,3000,1000,209603.1747,Fee Items,207443.5297,183967.53
+2009 Brunswick Int - Upgrade,2009 Brunswick Int - Upgrade,Concept / Scoping,57,1/11/2025,,6976.7442,6976.7442,216579.9189,Fee Items,214420.2739,183967.53
+2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Detailed Design,88,1/11/2025,,5385.4478,3805.9701,220385.889,Fee Items,219805.7217,183967.53
+2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Variation,73,1/11/2025,,642.8571,214.2857,220600.1747,Fee Items,220448.5788,183967.53
+2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Detailed Design,118,1/12/2025,,5460,7800,228400.1747,Fee Items,225908.5788,183967.53
+00_Programme Management,00_Programme Management,LS,7,1/12/2025,13992,0.55,0.55,228400.7247,Fee Items,225909.1288,197959.53
+2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Concept / Scoping,95,1/12/2025,,3708.3333,0,228400.7247,Fee Items,229617.4621,197959.53
+2009 Brunswick Int - Upgrade,2009 Brunswick Int - Upgrade,Concept / Scoping,57,1/12/2025,,1860.4651,1860.4651,230261.1898,Fee Items,231477.9272,197959.53
+2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,Detailed Design,124,1/12/2025,,16023.7288,14745.7627,245006.9525,Fee Items,247501.656,197959.53
+2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Concept / Scoping,96,1/12/2025,,4047.6923,0,245006.9525,Fee Items,251549.3483,197959.53
+2008 Fernhill Int - concept feasibility traffic assessment,2008 Fernhill Int - concept feasibility traffic assessment,Concept / Scoping,129,1/12/2025,,24440,0,245006.9525,Fee Items,275989.3483,197959.53
+2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Variation,73,1/12/2025,,2357.1429,785.7143,245792.6668,Fee Items,278346.4912,197959.53
+2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Concept / Scoping,74,1/12/2025,,2020.2247,1393.2584,247185.9252,Fee Items,280366.7159,197959.53
+2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Detailed Design,88,1/12/2025,,9820.5224,6940.2985,254126.2237,Fee Items,290187.2383,197959.53
+00_Programme Management,Actual,LS,37,1/12/2025,,14249.4087,14249.4087,268375.6324,Fee Items,304436.647,197959.53
+2011 Golf Course RBT,2011 Golf Course RBT,Concept / Scoping,104,1/01/2026,,11069,0,268375.6324,Fee Items,315505.647,197959.53
+2011 Golf Course RBT,2011 Golf Course RBT,Concept / Scoping,105,1/01/2026,,2000,0,268375.6324,Fee Items,317505.647,197959.53
+2011 Golf Course RBT,2011 Golf Course RBT,Concept / Scoping,103,1/01/2026,,2000,0,268375.6324,Fee Items,319505.647,197959.53
+2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Detailed Design,88,1/01/2026,,9820.5224,6940.2985,275315.9309,Fee Items,329326.1694,197959.53
+2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Construction,0,1/01/2026,39769,0.55,0.55,275316.4809,Non-Fee Items,329326.7194,237728.53
+2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Concept / Scoping,96,1/01/2026,,4722.3077,0,275316.4809,Fee Items,334049.0271,237728.53
+2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Detailed Design,118,1/01/2026,,18806.6667,26866.6667,302183.1476,Fee Items,352855.6938,237728.53
+2008 Fernhill Int - concept feasibility traffic assessment,2008 - RISU Signs,Concept / Scoping,30,1/01/2026,9944,0.55,0.55,302183.6976,Fee Items,352856.2438,247672.53
+2007 RISU Bundle - Rural Intersection Safety Upgrades,2007 - RISU Signs,Concept / Scoping,29,1/01/2026,8975,0.55,0.55,302184.2476,Fee Items,352856.7938,256647.53
+2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Concept / Scoping,75,1/01/2026,,1181.8182,590.9091,302775.1567,Fee Items,354038.612,256647.53
+2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Concept / Scoping,74,1/01/2026,,1042.6966,719.1011,303494.2578,Fee Items,355081.3086,256647.53
+2006 RISU Signs - Rural Intersection Safety Upgrade,2006 - RISU Signs,Concept / Scoping,26,1/01/2026,5960,0.55,0.55,303494.8078,Fee Items,355081.8586,262607.53
+2008 Fernhill Int - concept feasibility traffic assessment,2008 Fernhill Int - concept feasibility traffic assessment,Concept / Scoping,130,1/01/2026,,2191.7808,0,303494.8078,Fee Items,357273.6394,262607.53
+2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,Detailed Design,124,1/01/2026,,17128.8136,15762.7119,319257.5197,Fee Items,374402.453,262607.53
+2002 Glenorchy TC - Township improvements,2002 - Glenorchy TC,Detailed Design,14,1/01/2026,4245,0.55,0.55,319258.0697,Fee Items,374403.003,266852.53
+00_Programme Management,00_Programme Management,LS,8,1/01/2026,13992,0.55,0.55,319258.6197,Fee Items,374403.553,280844.53
+2005 Crown Range Passing Lanes,2005 - CR Passing Lanes,Concept / Scoping,23,1/01/2026,8770,0.55,0.55,319259.1697,Fee Items,374404.103,289614.53
+00_Programme Management,Actual,LS,37,1/01/2026,,14249.4087,14249.4087,333508.5784,Fee Items,388653.5117,289614.53
+2008 Fernhill Int - concept feasibility traffic assessment,2008 - RISU Signs,Concept / Scoping,31,1/02/2026,31264,0.55,0.55,333509.1284,Fee Items,388654.0617,320878.53
+2005 Crown Range Passing Lanes,2005 - CR Passing Lanes,Concept / Scoping,22,1/02/2026,8712,0.55,0.55,333509.6784,Fee Items,388654.6117,329590.53
+2002 Glenorchy TC - Township improvements,2002 - Glenorchy TC,Detailed Design,15,1/02/2026,8490,0.55,0.55,333510.2284,Fee Items,388655.1617,338080.53
+2009 Brunswick Int - Upgrade,2009 Brunswick Int - Upgrade,Detailed Design,58,1/02/2026,,3243.2432,1945.9459,335456.1743,Fee Items,391898.4049,338080.53
+00_Programme Management,00_Programme Management,LS,9,1/02/2026,13992,0.55,0.55,335456.7243,Fee Items,391898.9549,352072.53
+2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Concept / Scoping,75,1/02/2026,,818.1818,409.0909,335865.8152,Fee Items,392717.1367,352072.53
+00_Programme Management,Actual,LS,37,1/02/2026,,12870.4336,12870.4336,348736.2488,Fee Items,405587.5703,352072.53
+2011 Golf Course RBT,2011 Golf Course RBT,Detailed Design,107,1/02/2026,,1285.7143,1285.7143,350021.9631,Fee Items,406873.2846,352072.53
+2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Detailed Design,88,1/02/2026,,8870.1493,6268.6567,356290.6198,Fee Items,415743.4339,352072.53
+2008 Fernhill Int - concept feasibility traffic assessment,2008 Fernhill Int - concept feasibility traffic assessment,Concept / Scoping,130,1/02/2026,,3068.4932,0,356290.6198,Fee Items,418811.9271,352072.53
+2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,Detailed Design,124,1/02/2026,,15471.1864,14237.2881,370527.9079,Fee Items,434283.1135,352072.53
+2006 RISU Signs - Rural Intersection Safety Upgrade,2006 RISU Signs - Rural Intersection Safety Upgrade,Construction,42,1/02/2026,,428.5714,342.8571,370870.765,Non-Fee Items,434711.6849,352072.53
+2007 RISU Bundle - Rural Intersection Safety Upgrades,2007 RISU Bundle - Rural Intersection Safety Upgrades,Construction,51,1/02/2026,,48.3871,387.0968,371257.8618,Non-Fee Items,434760.072,352072.53
+2006 RISU Signs - Rural Intersection Safety Upgrade,2006 RISU Signs - Rural Intersection Safety Upgrade,Construction,45,1/02/2026,,10000,0,371257.8618,Non-Fee Items,444760.072,352072.53
+2006 RISU Signs - Rural Intersection Safety Upgrade,2006 RISU Signs - Rural Intersection Safety Upgrade,Construction,46,1/02/2026,,10000,0,371257.8618,Non-Fee Items,454760.072,352072.53
+2006 RISU Signs - Rural Intersection Safety Upgrade,2006 RISU Signs - Rural Intersection Safety Upgrade,Construction,47,1/02/2026,,125000,0,371257.8618,Non-Fee Items,579760.072,352072.53
+2009 Brunswick Int - Upgrade,2009 - RISU Signs,Concept / Scoping,34,1/02/2026,11636,0.55,0.55,371258.4118,Fee Items,579760.622,363708.53
+2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Detailed Design,118,1/02/2026,,16986.6667,24266.6667,395525.0785,Fee Items,596747.2887,363708.53
+2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Detailed Design,88,1/03/2026,,8553.3582,6044.7761,401569.8546,Fee Items,605300.6469,363708.53
+2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Detailed Design,118,1/03/2026,,18806.6667,26866.6667,428436.5213,Fee Items,624107.3136,363708.53
+2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,Detailed Design,124,1/03/2026,,17128.8136,15762.7119,444199.2332,Fee Items,641236.1272,363708.53
+2006 RISU Signs - Rural Intersection Safety Upgrade,2006 RISU Signs - Rural Intersection Safety Upgrade,Construction,44,1/03/2026,,0,105106.383,549305.6162,Non-Fee Items,641236.1272,363708.53
+2011 Golf Course RBT,2011 Golf Course RBT,Detailed Design,108,1/03/2026,,2666.6667,2666.6667,551972.2829,Fee Items,643902.7939,363708.53
+2011 Golf Course RBT,2011 Golf Course RBT,Detailed Design,107,1/03/2026,,2714.2857,2714.2857,554686.5686,Fee Items,646617.0796,363708.53
+2008 Fernhill Int - concept feasibility traffic assessment,2008 Fernhill Int - concept feasibility traffic assessment,Concept / Scoping,130,1/03/2026,,3397.2603,0,554686.5686,Fee Items,650014.3399,363708.53
+2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Detailed Design,97,1/03/2026,,17910.4478,26865.6716,581552.2402,Fee Items,667924.7877,363708.53
+2006 RISU Signs - Rural Intersection Safety Upgrade,2006 RISU Signs - Rural Intersection Safety Upgrade,Construction,42,1/03/2026,,1071.4286,857.1429,582409.3831,Non-Fee Items,668996.2163,363708.53
+2007 RISU Bundle - Rural Intersection Safety Upgrades,2007 RISU Bundle - Rural Intersection Safety Upgrades,Construction,51,1/03/2026,,750,6000,588409.3831,Non-Fee Items,669746.2163,363708.53
+2006 RISU Signs - Rural Intersection Safety Upgrade,2006 RISU Signs - Rural Intersection Safety Upgrade,Construction,43,1/03/2026,,12170.2128,11063.8298,599473.2129,Fee Items,681916.4291,363708.53
+2011 Golf Course RBT,2011 Golf Course RBT,Detailed Design,106,1/03/2026,,51578.9474,51578.9474,651052.1603,Fee Items,733495.3765,363708.53
+00_Programme Management,Actual,LS,37,1/03/2026,,14249.4087,14249.4087,665301.569,Fee Items,747744.7852,363708.53
+2009 Brunswick Int - Upgrade,2009 Brunswick Int - Upgrade,Detailed Design,58,1/03/2026,,16756.7568,10054.0541,675355.6231,Fee Items,764501.542,363708.53
+2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,Detailed Design,124,1/04/2026,,16576.2712,15254.2373,690609.8604,Fee Items,781077.8132,363708.53
+2006 RISU Signs - Rural Intersection Safety Upgrade,2006 RISU Signs - Rural Intersection Safety Upgrade,Construction,48,1/04/2026,,165.1376,165.1376,690774.998,Non-Fee Items,781242.9508,363708.53
+2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Detailed Design,118,1/04/2026,,18200,26000,716774.998,Fee Items,799442.9508,363708.53
+2006 RISU Signs - Rural Intersection Safety Upgrade,2006 RISU Signs - Rural Intersection Safety Upgrade,Construction,44,1/04/2026,,0,84893.617,801668.615,Non-Fee Items,799442.9508,363708.53
+2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Detailed Design,76,1/04/2026,,12413.7931,12413.7931,814082.4081,Fee Items,811856.7439,363708.53
+2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Detailed Design,97,1/04/2026,,17910.4478,26865.6716,840948.0797,Fee Items,829767.1917,363708.53
+2006 RISU Signs - Rural Intersection Safety Upgrade,2006 RISU Signs - Rural Intersection Safety Upgrade,Construction,43,1/04/2026,,9829.7872,8936.1702,849884.2499,Fee Items,839596.9789,363708.53
+2007 RISU Bundle - Rural Intersection Safety Upgrades,2007 RISU Bundle - Rural Intersection Safety Upgrades,Construction,51,1/04/2026,,701.6129,5612.9032,855497.1531,Non-Fee Items,840298.5918,363708.53
+2007 RISU Bundle - Rural Intersection Safety Upgrades,2007 RISU Bundle - Rural Intersection Safety Upgrades,Construction,52,1/04/2026,,323.9437,633.8028,856130.9559,Fee Items,840622.5355,363708.53
+2007 RISU Bundle - Rural Intersection Safety Upgrades,2007 RISU Bundle - Rural Intersection Safety Upgrades,Construction,53,1/04/2026,,7857.1429,15000,871130.9559,Non-Fee Items,848479.6784,363708.53
+2008 Fernhill Int - concept feasibility traffic assessment,2008 Fernhill Int - concept feasibility traffic assessment,Concept / Scoping,130,1/04/2026,,3287.6712,0,871130.9559,Fee Items,851767.3496,363708.53
+2011 Golf Course RBT,2011 Golf Course RBT,Detailed Design,106,1/04/2026,,18421.0526,18421.0526,889552.0085,Fee Items,870188.4022,363708.53
+2009 Brunswick Int - Upgrade,2009 Brunswick Int - Upgrade,Detailed Design,58,1/04/2026,,16216.2162,9729.7297,899281.7382,Fee Items,886404.6184,363708.53
+00_Programme Management,Actual,LS,37,1/04/2026,,13789.7503,13789.7503,913071.4885,Fee Items,900194.3687,363708.53
+2011 Golf Course RBT,2011 Golf Course RBT,Detailed Design,108,1/04/2026,,1333.3333,1333.3333,914404.8218,Fee Items,901527.702,363708.53
+2008 Fernhill Int - concept feasibility traffic assessment,2008 Fernhill Int - concept feasibility traffic assessment,Concept / Scoping,130,1/05/2026,,3397.2603,0,914404.8218,Fee Items,904924.9623,363708.53
+00_Programme Management,Actual,LS,37,1/05/2026,,14249.4087,14249.4087,928654.2305,Fee Items,919174.371,363708.53
+2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,Detailed Design,124,1/05/2026,,17128.8136,15762.7119,944416.9424,Fee Items,936303.1846,363708.53
+2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Detailed Design,118,1/05/2026,,12740,18200,962616.9424,Fee Items,949043.1846,363708.53
+2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Detailed Design,119,1/05/2026,,136.3636,136.3636,962753.306,Fee Items,949179.5482,363708.53
+2007 RISU Bundle - Rural Intersection Safety Upgrades,2007 RISU Bundle - Rural Intersection Safety Upgrades,Construction,52,1/05/2026,,10042.2535,19647.8873,982401.1933,Fee Items,959221.8017,363708.53
+2007 RISU Bundle - Rural Intersection Safety Upgrades,2007 RISU Bundle - Rural Intersection Safety Upgrades,Construction,53,1/05/2026,,102142.8571,195000,1177401.193,Non-Fee Items,1061364.659,363708.53
+2007 RISU Bundle - Rural Intersection Safety Upgrades,2007 RISU Bundle - Rural Intersection Safety Upgrades,Construction,54,1/05/2026,,37894.7368,3157.8947,1180559.088,Non-Fee Items,1099259.396,363708.53
+2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Construction,89,1/05/2026,,3789.4737,3789.4737,1184348.562,Non-Fee Items,1103048.869,363708.53
+2009 Brunswick Int - Upgrade,2009 Brunswick Int - Upgrade,Detailed Design,58,1/05/2026,,3783.7838,2270.2703,1186618.832,Fee Items,1106832.653,363708.53
+2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Detailed Design,97,1/05/2026,,4179.1045,6268.6567,1192887.489,Fee Items,1111011.758,363708.53
+2006 RISU Signs - Rural Intersection Safety Upgrade,2006 RISU Signs - Rural Intersection Safety Upgrade,Construction,48,1/05/2026,,568.8073,568.8073,1193456.296,Non-Fee Items,1111580.565,363708.53
+2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Detailed Design,76,1/05/2026,,21379.3103,21379.3103,1214835.606,Fee Items,1132959.875,363708.53
+2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Detailed Design,119,1/06/2026,,863.6364,863.6364,1215699.243,Fee Items,1133823.512,363708.53
+2011 Golf Course RBT,2011 Golf Course RBT,Construction,109,1/06/2026,,7887.3239,7887.3239,1223586.567,Non-Fee Items,1141710.836,363708.53
+2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,Detailed Design,124,1/06/2026,,16576.2712,15254.2373,1238840.804,Fee Items,1158287.107,363708.53
+2008 Fernhill Int - concept feasibility traffic assessment,2008 Fernhill Int - concept feasibility traffic assessment,Concept / Scoping,130,1/06/2026,,3287.6712,0,1238840.804,Fee Items,1161574.778,363708.53
+2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Detailed Design,98,1/06/2026,,3538.4615,3538.4615,1242379.265,Fee Items,1165113.239,363708.53
+2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Construction,89,1/06/2026,,6315.7895,6315.7895,1248695.055,Non-Fee Items,1171429.029,363708.53
+2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Detailed Design,76,1/06/2026,,6206.8966,6206.8966,1254901.952,Fee Items,1177635.926,363708.53
+00_Programme Management,Actual,LS,37,1/06/2026,,13789.7503,13789.7503,1268691.702,Fee Items,1191425.676,363708.53
+2007 RISU Bundle - Rural Intersection Safety Upgrades,2007 RISU Bundle - Rural Intersection Safety Upgrades,Construction,54,1/06/2026,,63157.8947,5263.1579,1273954.86,Non-Fee Items,1254583.571,363708.53
+2007 RISU Bundle - Rural Intersection Safety Upgrades,2007 RISU Bundle - Rural Intersection Safety Upgrades,Construction,52,1/06/2026,,9718.3099,19014.0845,1292968.944,Fee Items,1264301.88,363708.53
+2006 RISU Signs - Rural Intersection Safety Upgrade,2006 RISU Signs - Rural Intersection Safety Upgrade,Construction,48,1/06/2026,,550.4587,550.4587,1293519.403,Non-Fee Items,1264852.339,363708.53
+2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Construction,91,1/07/2026,,61876.1062,61876.1062,1355395.509,Non-Fee Items,1326728.445,363708.53
+2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Detailed Design,98,1/07/2026,,461.5385,461.5385,1355857.048,Fee Items,1327189.984,363708.53
+2009 Brunswick Int - Upgrade,2009 Brunswick Int - Upgrade,Construction,59,1/07/2026,,5442.8571,5442.8571,1361299.905,Non-Fee Items,1332632.841,363708.53
+2007 RISU Bundle - Rural Intersection Safety Upgrades,2007 RISU Bundle - Rural Intersection Safety Upgrades,Construction,54,1/07/2026,,18947.3684,1578.9474,1362878.852,Non-Fee Items,1351580.209,363708.53
+2007 RISU Bundle - Rural Intersection Safety Upgrades,2007 RISU Bundle - Rural Intersection Safety Upgrades,Construction,52,1/07/2026,,2915.493,5704.2254,1368583.078,Fee Items,1354495.702,363708.53
+2011 Golf Course RBT,2011 Golf Course RBT,Construction,109,1/07/2026,,8732.3944,8732.3944,1377315.472,Non-Fee Items,1363228.097,363708.53
+2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Construction,90,1/07/2026,,9483.1858,9483.1858,1386798.658,Fee Items,1372711.283,363708.53
+2006 RISU Signs - Rural Intersection Safety Upgrade,2006 RISU Signs - Rural Intersection Safety Upgrade,Construction,48,1/07/2026,,568.8073,568.8073,1387367.465,Non-Fee Items,1373280.09,363708.53
+2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Construction,77,1/07/2026,,1857.1429,1857.1429,1389224.608,Non-Fee Items,1375137.233,363708.53
+2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Construction,89,1/07/2026,,1894.7368,1894.7368,1391119.345,Non-Fee Items,1377031.97,363708.53
+2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,Detailed Design,124,1/07/2026,,17128.8136,15762.7119,1406882.057,Fee Items,1394160.783,363708.53
+00_Programme Management,Actual,LS,37,1/07/2026,,14249.4087,14249.4087,1421131.465,Fee Items,1408410.192,363708.53
+2008 Fernhill Int - concept feasibility traffic assessment,2008 Fernhill Int - concept feasibility traffic assessment,Concept / Scoping,130,1/07/2026,,3397.2603,0,1421131.465,Fee Items,1411807.452,363708.53
+2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Construction,120,1/07/2026,,1071.4286,1071.4286,1422202.894,Non-Fee Items,1412878.881,363708.53
+2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Construction,90,1/08/2026,,15472.5664,15472.5664,1437675.46,Fee Items,1428351.447,363708.53
+2008 Fernhill Int - concept feasibility traffic assessment,2008 Fernhill Int - concept feasibility traffic assessment,Concept / Scoping,133,1/08/2026,,0,7071.4286,1444746.889,Fee Items,1428351.447,363708.53
+2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Construction,91,1/08/2026,,100955.7522,100955.7522,1545702.641,Non-Fee Items,1529307.199,363708.53
+2009 Brunswick Int - Upgrade,2009 Brunswick Int - Upgrade,Construction,61,1/08/2026,,14788.7324,18732.3944,1564435.036,Non-Fee Items,1544095.932,363708.53
+2008 Fernhill Int - concept feasibility traffic assessment,2008 Fernhill Int - concept feasibility traffic assessment,Concept / Scoping,131,1/08/2026,,1560,0,1564435.036,Fee Items,1545655.932,363708.53
+2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Construction,99,1/08/2026,,4500,4500,1568935.036,Non-Fee Items,1550155.932,363708.53
+2008 Fernhill Int - concept feasibility traffic assessment,2008 Fernhill Int - concept feasibility traffic assessment,Concept / Scoping,130,1/08/2026,,1972.6027,0,1568935.036,Fee Items,1552128.534,363708.53
+2009 Brunswick Int - Upgrade,2009 Brunswick Int - Upgrade,Construction,59,1/08/2026,,7257.1429,7257.1429,1576192.178,Non-Fee Items,1559385.677,363708.53
+00_Programme Management,Actual,LS,37,1/08/2026,,14249.4087,14249.4087,1590441.587,Fee Items,1573635.086,363708.53
+2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,Detailed Design,124,1/08/2026,,17128.8136,15762.7119,1606204.299,Fee Items,1590763.9,363708.53
+2011 Golf Course RBT,2011 Golf Course RBT,Construction,109,1/08/2026,,3380.2817,3380.2817,1609584.581,Non-Fee Items,1594144.181,363708.53
+2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Construction,120,1/08/2026,,8303.5714,8303.5714,1617888.152,Non-Fee Items,1602447.753,363708.53
+2011 Golf Course RBT,2011 Golf Course RBT,Construction,111,1/08/2026,,55710.9005,55710.9005,1673599.053,Non-Fee Items,1658158.653,363708.53
+2009 Brunswick Int - Upgrade,2009 Brunswick Int - Upgrade,Construction,60,1/08/2026,,3943.662,3943.662,1677542.715,Fee Items,1662102.315,363708.53
+2006 RISU Signs - Rural Intersection Safety Upgrade,2006 RISU Signs - Rural Intersection Safety Upgrade,Construction,48,1/08/2026,,568.8073,568.8073,1678111.522,Non-Fee Items,1662671.123,363708.53
+2011 Golf Course RBT,2011 Golf Course RBT,Construction,110,1/08/2026,,2962.0853,2962.0853,1681073.607,Fee Items,1665633.208,363708.53
+2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Construction,77,1/08/2026,,6396.8254,6396.8254,1687470.433,Non-Fee Items,1672030.033,363708.53
+2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Construction,91,1/09/2026,,97699.115,97699.115,1785169.548,Non-Fee Items,1769729.148,363708.53
+2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Construction,120,1/09/2026,,5625,5625,1790794.548,Non-Fee Items,1775354.148,363708.53
+00_Programme Management,Actual,LS,37,1/09/2026,,13789.7503,13789.7503,1804584.298,Fee Items,1789143.899,363708.53
+2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Construction,121,1/09/2026,,3095.0226,2459.7285,1807044.026,Fee Items,1792238.921,363708.53
+2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Construction,78,1/09/2026,,4600,4600,1811644.026,Fee Items,1796838.921,363708.53
+2011 Golf Course RBT,2011 Golf Course RBT,Construction,111,1/09/2026,,334265.4028,334265.4028,2145909.429,Non-Fee Items,2131104.324,363708.53
+2006 RISU Signs - Rural Intersection Safety Upgrade,2006 RISU Signs - Rural Intersection Safety Upgrade,Construction,48,1/09/2026,,550.4587,550.4587,2146459.888,Non-Fee Items,2131654.783,363708.53
+2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,Detailed Design,124,1/09/2026,,12708.4746,11694.9153,2158154.803,Fee Items,2144363.257,363708.53
+2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Construction,79,1/09/2026,,23333.3333,23333.3333,2181488.137,Non-Fee Items,2167696.591,363708.53
+2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Construction,77,1/09/2026,,4746.0317,4746.0317,2186234.168,Non-Fee Items,2172442.622,363708.53
+2008 Fernhill Int - concept feasibility traffic assessment,2008 Fernhill Int - concept feasibility traffic assessment,Concept / Scoping,131,1/09/2026,,3600,0,2186234.168,Fee Items,2176042.622,363708.53
+2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Construction,90,1/09/2026,,14973.4513,14973.4513,2201207.62,Fee Items,2191016.074,363708.53
+2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Construction,99,1/09/2026,,6428.5714,6428.5714,2207636.191,Non-Fee Items,2197444.645,363708.53
+2011 Golf Course RBT,2011 Golf Course RBT,Construction,110,1/09/2026,,17772.5118,17772.5118,2225408.703,Fee Items,2215217.157,363708.53
+2008 Fernhill Int - concept feasibility traffic assessment,2008 Fernhill Int - concept feasibility traffic assessment,Concept / Scoping,134,1/09/2026,,8571.4286,9714.2857,2235122.988,Fee Items,2223788.585,363708.53
+2009 Brunswick Int - Upgrade,2009 Brunswick Int - Upgrade,Construction,61,1/09/2026,,63380.2817,80281.6901,2315404.679,Non-Fee Items,2287168.867,363708.53
+2008 Fernhill Int - concept feasibility traffic assessment,2008 Fernhill Int - concept feasibility traffic assessment,Concept / Scoping,133,1/09/2026,,0,25928.5714,2341333.25,Fee Items,2287168.867,363708.53
+2009 Brunswick Int - Upgrade,2009 Brunswick Int - Upgrade,Construction,60,1/09/2026,,16901.4085,16901.4085,2358234.658,Fee Items,2304070.276,363708.53
+2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Construction,122,1/09/2026,,57013.5747,57013.5747,2415248.233,Non-Fee Items,2361083.85,363708.53
+2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Construction,100,1/10/2026,,12843.609,12843.609,2428091.842,Fee Items,2373927.459,363708.53
+00_Programme Management,Actual,LS,37,1/10/2026,,14249.4087,14249.4087,2442341.251,Fee Items,2388176.868,363708.53
+2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Construction,101,1/10/2026,,127067.6692,127067.6692,2569408.92,Non-Fee Items,2515244.537,363708.53
+2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Construction,122,1/10/2026,,196380.0905,196380.0905,2765789.011,Non-Fee Items,2711624.628,363708.53
+2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Construction,121,1/10/2026,,10660.6335,8472.3982,2774261.409,Fee Items,2722285.261,363708.53
+2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Construction,78,1/10/2026,,20371.4286,20371.4286,2794632.837,Fee Items,2742656.69,363708.53
+2011 Golf Course RBT,2011 Golf Course RBT,Construction,111,1/10/2026,,345407.5829,345407.5829,3140040.42,Non-Fee Items,3088064.273,363708.53
+2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,Construction,125,1/10/2026,,4473.6842,8947.3684,3148987.789,Non-Fee Items,3092537.957,363708.53
+2011 Golf Course RBT,2011 Golf Course RBT,Construction,110,1/10/2026,,18364.9289,18364.9289,3167352.718,Fee Items,3110902.886,363708.53
+2009 Brunswick Int - Upgrade,2009 Brunswick Int - Upgrade,Construction,60,1/10/2026,,17464.7887,17464.7887,3184817.506,Fee Items,3128367.674,363708.53
+2009 Brunswick Int - Upgrade,2009 Brunswick Int - Upgrade,Construction,61,1/10/2026,,65492.9577,82957.7465,3267775.253,Non-Fee Items,3193860.632,363708.53
+2006 RISU Signs - Rural Intersection Safety Upgrade,2006 RISU Signs - Rural Intersection Safety Upgrade,Construction,48,1/10/2026,,568.8073,568.8073,3268344.06,Non-Fee Items,3194429.439,363708.53
+2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Construction,91,1/10/2026,,100955.7522,100955.7522,3369299.812,Non-Fee Items,3295385.192,363708.53
+2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Construction,99,1/10/2026,,1071.4286,1071.4286,3370371.241,Non-Fee Items,3296456.62,363708.53
+2008 Fernhill Int - concept feasibility traffic assessment,2008 Fernhill Int - concept feasibility traffic assessment,Concept / Scoping,134,1/10/2026,,21428.5714,24285.7143,3394656.955,Fee Items,3317885.192,363708.53
+2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Construction,79,1/10/2026,,103333.3333,103333.3333,3497990.288,Non-Fee Items,3421218.525,363708.53
+2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Construction,90,1/10/2026,,15472.5664,15472.5664,3513462.855,Fee Items,3436691.091,363708.53
+2008 Fernhill Int - concept feasibility traffic assessment,2008 Fernhill Int - concept feasibility traffic assessment,Concept / Scoping,131,1/10/2026,,3720,0,3513462.855,Fee Items,3440411.091,363708.53
+2009 Brunswick Int - Upgrade,2009 Brunswick Int - Upgrade,Construction,60,1/11/2026,,1690.1408,1690.1408,3515152.996,Fee Items,3442101.232,363708.53
+2009 Brunswick Int - Upgrade,2009 Brunswick Int - Upgrade,Construction,62,1/11/2026,,489.1304,489.1304,3515642.126,Non-Fee Items,3442590.363,363708.53
+2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Construction,101,1/11/2026,,146616.5414,146616.5414,3662258.667,Non-Fee Items,3589206.904,363708.53
+2011 Golf Course RBT,2011 Golf Course RBT,Construction,111,1/11/2026,,334265.4028,334265.4028,3996524.07,Non-Fee Items,3923472.307,363708.53
+2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,Construction,125,1/11/2026,,7894.7368,15789.4737,4012313.544,Non-Fee Items,3931367.044,363708.53
+2011 Golf Course RBT,2011 Golf Course RBT,Construction,110,1/11/2026,,17772.5118,17772.5118,4030086.056,Fee Items,3949139.555,363708.53
+2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Construction,79,1/11/2026,,100000,100000,4130086.056,Non-Fee Items,4049139.555,363708.53
+2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Construction,100,1/11/2026,,14819.5489,14819.5489,4144905.605,Fee Items,4063959.104,363708.53
+2009 Brunswick Int - Upgrade,2009 Brunswick Int - Upgrade,Construction,61,1/11/2026,,6338.0282,8028.169,4152933.774,Non-Fee Items,4070297.132,363708.53
+2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Construction,122,1/11/2026,,190045.2489,190045.2489,4342979.023,Non-Fee Items,4260342.381,363708.53
+2008 Fernhill Int - concept feasibility traffic assessment,2008 Fernhill Int - concept feasibility traffic assessment,Concept / Scoping,131,1/11/2026,,3600,0,4342979.023,Fee Items,4263942.381,363708.53
+2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Construction,91,1/11/2026,,6513.2743,6513.2743,4349492.297,Non-Fee Items,4270455.656,363708.53
+2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Construction,121,1/11/2026,,10316.7421,8199.095,4357691.392,Fee Items,4280772.398,363708.53
+2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Construction,90,1/11/2026,,998.2301,998.2301,4358689.622,Fee Items,4281770.628,363708.53
+2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Construction,78,1/11/2026,,19714.2857,19714.2857,4378403.908,Fee Items,4301484.914,363708.53
+2006 RISU Signs - Rural Intersection Safety Upgrade,2006 RISU Signs - Rural Intersection Safety Upgrade,Construction,48,1/11/2026,,550.4587,550.4587,4378954.366,Non-Fee Items,4302035.372,363708.53
+00_Programme Management,Actual,LS,37,1/11/2026,,13789.7503,13789.7503,4392744.117,Fee Items,4315825.123,363708.53
+2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Construction,92,1/11/2026,,509.0909,509.0909,4393253.208,Non-Fee Items,4316334.213,363708.53
+2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,Construction,125,1/12/2026,,2631.5789,5263.1579,4398516.365,Non-Fee Items,4318965.792,363708.53
+2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,Construction,126,1/12/2026,,12478.2609,4565.2174,4403081.583,Fee Items,4331444.053,363708.53
+2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Construction,122,1/12/2026,,196380.0905,196380.0905,4599461.673,Non-Fee Items,4527824.144,363708.53
+2011 Golf Course RBT,2011 Golf Course RBT,Construction,111,1/12/2026,,345407.5829,345407.5829,4944869.256,Non-Fee Items,4873231.727,363708.53
+2011 Golf Course RBT,2011 Golf Course RBT,Construction,110,1/12/2026,,18364.9289,18364.9289,4963234.185,Fee Items,4891596.656,363708.53
+2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Construction,101,1/12/2026,,151503.7594,151503.7594,5114737.945,Non-Fee Items,5043100.415,363708.53
+2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Construction,78,1/12/2026,,20371.4286,20371.4286,5135109.373,Fee Items,5063471.844,363708.53
+2009 Brunswick Int - Upgrade,2009 Brunswick Int - Upgrade,Construction,62,1/12/2026,,561.5942,561.5942,5135670.967,Non-Fee Items,5064033.438,363708.53
+2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Construction,100,1/12/2026,,15313.5338,15313.5338,5150984.501,Fee Items,5079346.972,363708.53
+00_Programme Management,Actual,LS,37,1/12/2026,,14249.4087,14249.4087,5165233.91,Fee Items,5093596.38,363708.53
+2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Construction,79,1/12/2026,,103333.3333,103333.3333,5268567.243,Non-Fee Items,5196929.714,363708.53
+2006 RISU Signs - Rural Intersection Safety Upgrade,2006 RISU Signs - Rural Intersection Safety Upgrade,Construction,48,1/12/2026,,568.8073,568.8073,5269136.05,Non-Fee Items,5197498.521,363708.53
+2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,Construction,127,1/12/2026,,60869.5652,60869.5652,5330005.616,Non-Fee Items,5258368.086,363708.53
+2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Construction,121,1/12/2026,,10660.6335,8472.3982,5338478.014,Fee Items,5269028.72,363708.53
+2008 Fernhill Int - concept feasibility traffic assessment,2008 Fernhill Int - concept feasibility traffic assessment,Concept / Scoping,131,1/12/2026,,3720,0,5338478.014,Fee Items,5272748.72,363708.53
+2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Construction,92,1/12/2026,,563.6364,563.6364,5339041.65,Non-Fee Items,5273312.356,363708.53
+2008 Fernhill Int - concept feasibility traffic assessment,2008 Fernhill Int - concept feasibility traffic assessment,Concept / Scoping,131,1/01/2027,,3720,0,5339041.65,Fee Items,5277032.356,363708.53
+2011 Golf Course RBT,2011 Golf Course RBT,Construction,110,1/01/2027,,18364.9289,18364.9289,5357406.579,Fee Items,5295397.285,363708.53
+00_Programme Management,Actual,LS,37,1/01/2027,,14249.4087,14249.4087,5371655.988,Fee Items,5309646.694,363708.53
+2006 RISU Signs - Rural Intersection Safety Upgrade,2006 RISU Signs - Rural Intersection Safety Upgrade,Construction,48,1/01/2027,,568.8073,568.8073,5372224.795,Non-Fee Items,5310215.501,363708.53
+2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Construction,122,1/01/2027,,196380.0905,196380.0905,5568604.886,Non-Fee Items,5506595.591,363708.53
+2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Construction,80,1/01/2027,,457.0384,457.0384,5569061.924,Non-Fee Items,5507052.63,363708.53
+2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,Construction,126,1/01/2027,,18420.2899,6739.1304,5575801.054,Fee Items,5525472.92,363708.53
+2011 Golf Course RBT,2011 Golf Course RBT,Construction,111,1/01/2027,,345407.5829,345407.5829,5921208.637,Non-Fee Items,5870880.503,363708.53
+2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Construction,101,1/01/2027,,151503.7594,151503.7594,6072712.397,Non-Fee Items,6022384.262,363708.53
+2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Construction,78,1/01/2027,,3942.8571,3942.8571,6076655.254,Fee Items,6026327.119,363708.53
+2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Construction,100,1/01/2027,,15313.5338,15313.5338,6091968.788,Fee Items,6041640.653,363708.53
+2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Construction,79,1/01/2027,,20000,20000,6111968.788,Non-Fee Items,6061640.653,363708.53
+2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Construction,121,1/01/2027,,10660.6335,8472.3982,6120441.186,Fee Items,6072301.286,363708.53
+2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,Construction,127,1/01/2027,,89855.0725,89855.0725,6210296.258,Non-Fee Items,6162156.359,363708.53
+2009 Brunswick Int - Upgrade,2009 Brunswick Int - Upgrade,Construction,62,1/01/2027,,561.5942,561.5942,6210857.853,Non-Fee Items,6162717.953,363708.53
+2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Construction,92,1/01/2027,,563.6364,563.6364,6211421.489,Non-Fee Items,6163281.589,363708.53
+2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Construction,80,1/02/2027,,511.883,511.883,6211933.372,Non-Fee Items,6163793.472,363708.53
+2011 Golf Course RBT,2011 Golf Course RBT,Construction,110,1/02/2027,,16587.6777,16587.6777,6228521.05,Fee Items,6180381.15,363708.53
+2011 Golf Course RBT,2011 Golf Course RBT,Construction,111,1/02/2027,,311981.0427,311981.0427,6540502.092,Non-Fee Items,6492362.193,363708.53
+2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Construction,121,1/02/2027,,9628.9593,7652.4887,6548154.581,Fee Items,6501991.152,363708.53
+2006 RISU Signs - Rural Intersection Safety Upgrade,2006 RISU Signs - Rural Intersection Safety Upgrade,Construction,48,1/02/2027,,513.7615,513.7615,6548668.343,Non-Fee Items,6502504.914,363708.53
+2008 Fernhill Int - concept feasibility traffic assessment,2008 Fernhill Int - concept feasibility traffic assessment,Concept / Scoping,135,1/02/2027,,0,34001,6582669.343,Fee Items,6502504.914,363708.53
+2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Construction,102,1/02/2027,,237.2263,237.2263,6582906.569,Non-Fee Items,6502742.14,363708.53
+2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,Construction,128,1/02/2027,,31884.058,31884.058,6614790.627,Non-Fee Items,6534626.198,363708.53
+2009 Brunswick Int - Upgrade,2009 Brunswick Int - Upgrade,Construction,62,1/02/2027,,507.2464,507.2464,6615297.873,Non-Fee Items,6535133.444,363708.53
+2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Construction,100,1/02/2027,,7409.7744,7409.7744,6622707.648,Fee Items,6542543.219,363708.53
+2008 Fernhill Int - concept feasibility traffic assessment,2008 Fernhill Int - concept feasibility traffic assessment,Concept / Scoping,132,1/02/2027,,0,6966.6667,6629674.314,Fee Items,6542543.219,363708.53
+2008 Fernhill Int - concept feasibility traffic assessment,2008 Fernhill Int - concept feasibility traffic assessment,Concept / Scoping,131,1/02/2027,,1080,0,6629674.314,Fee Items,6543623.219,363708.53
+2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Construction,92,1/02/2027,,509.0909,509.0909,6630183.405,Non-Fee Items,6544132.31,363708.53
+2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Construction,122,1/02/2027,,177375.5656,177375.5656,6807558.971,Non-Fee Items,6721507.875,363708.53
+00_Programme Management,Actual,LS,37,1/02/2027,,12870.4336,12870.4336,6820429.404,Fee Items,6734378.309,363708.53
+2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,Construction,126,1/02/2027,,16637.6812,6086.9565,6826516.361,Fee Items,6751015.99,363708.53
+2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,Construction,127,1/02/2027,,49275.3623,49275.3623,6875791.723,Non-Fee Items,6800291.352,363708.53
+2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Construction,101,1/02/2027,,73308.2707,73308.2707,6949099.994,Non-Fee Items,6873599.623,363708.53
+2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,Construction,128,1/03/2027,,89855.0725,89855.0725,7038955.066,Non-Fee Items,6963454.696,363708.53
+2009 Brunswick Int - Upgrade,2009 Brunswick Int - Upgrade,Construction,62,1/03/2027,,561.5942,561.5942,7039516.661,Non-Fee Items,6964016.29,363708.53
+2011 Golf Course RBT,2011 Golf Course RBT,Construction,112,1/03/2027,,36.8324,36.8324,7039553.493,Non-Fee Items,6964053.122,363708.53
+2011 Golf Course RBT,2011 Golf Course RBT,Construction,111,1/03/2027,,278554.5024,278554.5024,7318107.995,Non-Fee Items,7242607.625,363708.53
+2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,Construction,126,1/03/2027,,18420.2899,6739.1304,7324847.126,Fee Items,7261027.914,363708.53
+2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Construction,92,1/03/2027,,563.6364,563.6364,7325410.762,Non-Fee Items,7261591.551,363708.53
+2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Construction,80,1/03/2027,,566.7276,566.7276,7325977.49,Non-Fee Items,7262158.278,363708.53
+2011 Golf Course RBT,2011 Golf Course RBT,Construction,110,1/03/2027,,14810.4265,14810.4265,7340787.916,Fee Items,7276968.705,363708.53
+00_Programme Management,Actual,LS,37,1/03/2027,,14249.4087,14249.4087,7355037.325,Fee Items,7291218.114,363708.53
+2008 Fernhill Int - concept feasibility traffic assessment,2008 Fernhill Int - concept feasibility traffic assessment,Concept / Scoping,132,1/03/2027,,0,11366.6667,7366403.992,Fee Items,7291218.114,363708.53
+2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Construction,121,1/03/2027,,10660.6335,8472.3982,7374876.39,Fee Items,7301878.747,363708.53
+2006 RISU Signs - Rural Intersection Safety Upgrade,2006 RISU Signs - Rural Intersection Safety Upgrade,Construction,48,1/03/2027,,568.8073,568.8073,7375445.197,Non-Fee Items,7302447.554,363708.53
+2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Construction,102,1/03/2027,,565.6934,565.6934,7376010.891,Non-Fee Items,7303013.248,363708.53
+2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Construction,122,1/03/2027,,196380.0905,196380.0905,7572390.981,Non-Fee Items,7499393.338,363708.53
+2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Construction,92,1/04/2027,,545.4545,545.4545,7572936.436,Non-Fee Items,7499938.793,363708.53
+2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,Construction,128,1/04/2027,,78260.8696,78260.8696,7651197.305,Non-Fee Items,7578199.662,363708.53
+2008 Fernhill Int - concept feasibility traffic assessment,2008 Fernhill Int - concept feasibility traffic assessment,Concept / Scoping,132,1/04/2027,,0,11000,7662197.305,Fee Items,7578199.662,363708.53
+2011 Golf Course RBT,2011 Golf Course RBT,Construction,112,1/04/2027,,552.4862,552.4862,7662749.791,Non-Fee Items,7578752.149,363708.53
+2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,2010 Wayfinding - Active Travel Wayfinding - Wakatipu and Wanaka,Construction,126,1/04/2027,,16043.4783,5869.5652,7668619.357,Fee Items,7594795.627,363708.53
+2006 RISU Signs - Rural Intersection Safety Upgrade,2006 RISU Signs - Rural Intersection Safety Upgrade,Construction,48,1/04/2027,,550.4587,550.4587,7669169.815,Non-Fee Items,7595346.086,363708.53
+2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Construction,102,1/04/2027,,547.4453,547.4453,7669717.261,Non-Fee Items,7595893.531,363708.53
+00_Programme Management,Actual,LS,37,1/04/2027,,13789.7503,13789.7503,7683507.011,Fee Items,7609683.281,363708.53
+2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Construction,122,1/04/2027,,190045.2489,190045.2489,7873552.26,Non-Fee Items,7799728.53,363708.53
+2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Construction,80,1/04/2027,,548.4461,548.4461,7874100.706,Non-Fee Items,7800276.976,363708.53
+2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Construction,121,1/04/2027,,10316.7421,8199.095,7882299.801,Fee Items,7810593.718,363708.53
+2009 Brunswick Int - Upgrade,2009 Brunswick Int - Upgrade,Construction,62,1/04/2027,,543.4783,543.4783,7882843.279,Non-Fee Items,7811137.197,363708.53
+00_Programme Management,Actual,LS,37,1/05/2027,,14249.4087,14249.4087,7897092.688,Fee Items,7825386.605,363708.53
+2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Construction,123,1/05/2027,,534.07,534.07,7897626.758,Non-Fee Items,7825920.675,363708.53
+2008 Fernhill Int - concept feasibility traffic assessment,2008 Fernhill Int - concept feasibility traffic assessment,Concept / Scoping,132,1/05/2027,,0,3666.6667,7901293.425,Fee Items,7825920.675,363708.53
+2006 RISU Signs - Rural Intersection Safety Upgrade,2006 RISU Signs - Rural Intersection Safety Upgrade,Construction,48,1/05/2027,,568.8073,568.8073,7901862.232,Non-Fee Items,7826489.483,363708.53
+2011 Golf Course RBT,2011 Golf Course RBT,Construction,112,1/05/2027,,570.9024,570.9024,7902433.134,Non-Fee Items,7827060.385,363708.53
+2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Construction,92,1/05/2027,,563.6364,563.6364,7902996.771,Non-Fee Items,7827624.021,363708.53
+2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Construction,102,1/05/2027,,565.6934,565.6934,7903562.464,Non-Fee Items,7828189.715,363708.53
+2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Construction,80,1/05/2027,,566.7276,566.7276,7904129.192,Non-Fee Items,7828756.442,363708.53
+2009 Brunswick Int - Upgrade,2009 Brunswick Int - Upgrade,Construction,62,1/05/2027,,561.5942,561.5942,7904690.786,Non-Fee Items,7829318.037,363708.53
+2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Construction,123,1/06/2027,,552.4862,552.4862,7905243.272,Non-Fee Items,7829870.523,363708.53
+2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Construction,80,1/06/2027,,548.4461,548.4461,7905791.718,Non-Fee Items,7830418.969,363708.53
+2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Construction,102,1/06/2027,,547.4453,547.4453,7906339.164,Non-Fee Items,7830966.414,363708.53
+00_Programme Management,Actual,LS,37,1/06/2027,,13330.092,13330.092,7919669.256,Fee Items,7844296.506,363708.53
+2009 Brunswick Int - Upgrade,2009 Brunswick Int - Upgrade,Construction,62,1/06/2027,,543.4783,543.4783,7920212.734,Non-Fee Items,7844839.985,363708.53
+2006 RISU Signs - Rural Intersection Safety Upgrade,2006 RISU Signs - Rural Intersection Safety Upgrade,Construction,48,1/06/2027,,550.4587,550.4587,7920763.193,Non-Fee Items,7845390.443,363708.53
+2011 Golf Course RBT,2011 Golf Course RBT,Construction,112,1/06/2027,,552.4862,552.4862,7921315.679,Non-Fee Items,7845942.929,363708.53
+2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Construction,92,1/06/2027,,545.4545,545.4545,7921861.133,Non-Fee Items,7846488.384,363708.53
+2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Construction,80,1/07/2027,,566.7276,566.7276,7922427.861,Non-Fee Items,7847055.112,363708.53
+2011 Golf Course RBT,2011 Golf Course RBT,Construction,112,1/07/2027,,570.9024,570.9024,7922998.763,Non-Fee Items,7847626.014,363708.53
+2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Construction,92,1/07/2027,,563.6364,563.6364,7923562.4,Non-Fee Items,7848189.65,363708.53
+2009 Brunswick Int - Upgrade,2009 Brunswick Int - Upgrade,Construction,62,1/07/2027,,561.5942,561.5942,7924123.994,Non-Fee Items,7848751.245,363708.53
+2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Construction,102,1/07/2027,,565.6934,565.6934,7924689.687,Non-Fee Items,7849316.938,363708.53
+2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Construction,123,1/07/2027,,570.9024,570.9024,7925260.59,Non-Fee Items,7849887.84,363708.53
+2006 RISU Signs - Rural Intersection Safety Upgrade,2006 RISU Signs - Rural Intersection Safety Upgrade,Construction,48,1/07/2027,,568.8073,568.8073,7925829.397,Non-Fee Items,7850456.648,363708.53
+2011 Golf Course RBT,2011 Golf Course RBT,Construction,112,1/08/2027,,570.9024,570.9024,7926400.299,Non-Fee Items,7851027.55,363708.53
+2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Construction,92,1/08/2027,,563.6364,563.6364,7926963.936,Non-Fee Items,7851591.186,363708.53
+2009 Brunswick Int - Upgrade,2009 Brunswick Int - Upgrade,Construction,62,1/08/2027,,561.5942,561.5942,7927525.53,Non-Fee Items,7852152.781,363708.53
+2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Construction,102,1/08/2027,,565.6934,565.6934,7928091.223,Non-Fee Items,7852718.474,363708.53
+2006 RISU Signs - Rural Intersection Safety Upgrade,2006 RISU Signs - Rural Intersection Safety Upgrade,Construction,48,1/08/2027,,568.8073,568.8073,7928660.031,Non-Fee Items,7853287.281,363708.53
+2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Construction,80,1/08/2027,,566.7276,566.7276,7929226.758,Non-Fee Items,7853854.009,363708.53
+2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Construction,123,1/08/2027,,570.9024,570.9024,7929797.661,Non-Fee Items,7854424.911,363708.53
+2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Construction,92,1/09/2027,,545.4545,545.4545,7930343.115,Non-Fee Items,7854970.366,363708.53
+2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Construction,123,1/09/2027,,552.4862,552.4862,7930895.601,Non-Fee Items,7855522.852,363708.53
+2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Construction,102,1/09/2027,,547.4453,547.4453,7931443.047,Non-Fee Items,7856070.297,363708.53
+2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Construction,80,1/09/2027,,548.4461,548.4461,7931991.493,Non-Fee Items,7856618.743,363708.53
+2009 Brunswick Int - Upgrade,2009 Brunswick Int - Upgrade,Construction,62,1/09/2027,,543.4783,543.4783,7932534.971,Non-Fee Items,7857162.222,363708.53
+2006 RISU Signs - Rural Intersection Safety Upgrade,2006 RISU Signs - Rural Intersection Safety Upgrade,Construction,48,1/09/2027,,550.4587,550.4587,7933085.43,Non-Fee Items,7857712.68,363708.53
+2011 Golf Course RBT,2011 Golf Course RBT,Construction,112,1/09/2027,,552.4862,552.4862,7933637.916,Non-Fee Items,7858265.167,363708.53
+2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Construction,102,1/10/2027,,565.6934,565.6934,7934203.609,Non-Fee Items,7858830.86,363708.53
+2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Construction,80,1/10/2027,,566.7276,566.7276,7934770.337,Non-Fee Items,7859397.588,363708.53
+2006 RISU Signs - Rural Intersection Safety Upgrade,2006 RISU Signs - Rural Intersection Safety Upgrade,Construction,48,1/10/2027,,330.2752,330.2752,7935100.612,Non-Fee Items,7859727.863,363708.53
+2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Construction,123,1/10/2027,,570.9024,570.9024,7935671.515,Non-Fee Items,7860298.765,363708.53
+2009 Brunswick Int - Upgrade,2009 Brunswick Int - Upgrade,Construction,62,1/10/2027,,561.5942,561.5942,7936233.109,Non-Fee Items,7860860.359,363708.53
+2011 Golf Course RBT,2011 Golf Course RBT,Construction,112,1/10/2027,,570.9024,570.9024,7936804.011,Non-Fee Items,7861431.262,363708.53
+2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Construction,92,1/10/2027,,563.6364,563.6364,7937367.648,Non-Fee Items,7861994.898,363708.53
+2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Construction,102,1/11/2027,,547.4453,547.4453,7937915.093,Non-Fee Items,7862542.344,363708.53
+2009 Brunswick Int - Upgrade,2009 Brunswick Int - Upgrade,Construction,62,1/11/2027,,543.4783,543.4783,7938458.571,Non-Fee Items,7863085.822,363708.53
+2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Construction,92,1/11/2027,,545.4545,545.4545,7939004.026,Non-Fee Items,7863631.276,363708.53
+2011 Golf Course RBT,2011 Golf Course RBT,Construction,112,1/11/2027,,552.4862,552.4862,7939556.512,Non-Fee Items,7864183.763,363708.53
+2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Construction,80,1/11/2027,,548.4461,548.4461,7940104.958,Non-Fee Items,7864732.209,363708.53
+2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Construction,123,1/11/2027,,552.4862,552.4862,7940657.444,Non-Fee Items,7865284.695,363708.53
+2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Construction,102,1/12/2027,,565.6934,565.6934,7941223.138,Non-Fee Items,7865850.388,363708.53
+2009 Brunswick Int - Upgrade,2009 Brunswick Int - Upgrade,Construction,62,1/12/2027,,561.5942,561.5942,7941784.732,Non-Fee Items,7866411.982,363708.53
+2011 Golf Course RBT,2011 Golf Course RBT,Construction,112,1/12/2027,,570.9024,570.9024,7942355.634,Non-Fee Items,7866982.885,363708.53
+2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Construction,123,1/12/2027,,570.9024,570.9024,7942926.537,Non-Fee Items,7867553.787,363708.53
+2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Construction,92,1/12/2027,,563.6364,563.6364,7943490.173,Non-Fee Items,7868117.424,363708.53
+2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Construction,80,1/12/2027,,566.7276,566.7276,7944056.901,Non-Fee Items,7868684.151,363708.53
+2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Construction,123,1/01/2028,,570.9024,570.9024,7944627.803,Non-Fee Items,7869255.054,363708.53
+2011 Golf Course RBT,2011 Golf Course RBT,Construction,112,1/01/2028,,570.9024,570.9024,7945198.705,Non-Fee Items,7869825.956,363708.53
+2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Construction,92,1/01/2028,,563.6364,563.6364,7945762.342,Non-Fee Items,7870389.592,363708.53
+2009 Brunswick Int - Upgrade,2009 Brunswick Int - Upgrade,Construction,62,1/01/2028,,561.5942,561.5942,7946323.936,Non-Fee Items,7870951.187,363708.53
+2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Construction,102,1/01/2028,,565.6934,565.6934,7946889.629,Non-Fee Items,7871516.88,363708.53
+2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Construction,80,1/01/2028,,566.7276,566.7276,7947456.357,Non-Fee Items,7872083.608,363708.53
+2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Construction,80,1/02/2028,,530.1645,530.1645,7947986.521,Non-Fee Items,7872613.772,363708.53
+2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Construction,92,1/02/2028,,527.2727,527.2727,7948513.794,Non-Fee Items,7873141.045,363708.53
+2009 Brunswick Int - Upgrade,2009 Brunswick Int - Upgrade,Construction,62,1/02/2028,,525.3623,525.3623,7949039.156,Non-Fee Items,7873666.407,363708.53
+2011 Golf Course RBT,2011 Golf Course RBT,Construction,112,1/02/2028,,534.07,534.07,7949573.226,Non-Fee Items,7874200.477,363708.53
+2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Construction,123,1/02/2028,,534.07,534.07,7950107.296,Non-Fee Items,7874734.547,363708.53
+2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Construction,102,1/02/2028,,529.1971,529.1971,7950636.494,Non-Fee Items,7875263.744,363708.53
+2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Construction,102,1/03/2028,,565.6934,565.6934,7951202.187,Non-Fee Items,7875829.438,363708.53
+2011 Golf Course RBT,2011 Golf Course RBT,Construction,112,1/03/2028,,570.9024,570.9024,7951773.089,Non-Fee Items,7876400.34,363708.53
+2009 Brunswick Int - Upgrade,2009 Brunswick Int - Upgrade,Construction,62,1/03/2028,,561.5942,561.5942,7952334.684,Non-Fee Items,7876961.934,363708.53
+2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Construction,92,1/03/2028,,563.6364,563.6364,7952898.32,Non-Fee Items,7877525.571,363708.53
+2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Construction,123,1/03/2028,,570.9024,570.9024,7953469.222,Non-Fee Items,7878096.473,363708.53
+2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Construction,80,1/03/2028,,566.7276,566.7276,7954035.95,Non-Fee Items,7878663.201,363708.53
+2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Construction,123,1/04/2028,,552.4862,552.4862,7954588.436,Non-Fee Items,7879215.687,363708.53
+2009 Brunswick Int - Upgrade,2009 Brunswick Int - Upgrade,Construction,62,1/04/2028,,543.4783,543.4783,7955131.914,Non-Fee Items,7879759.165,363708.53
+2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Construction,92,1/04/2028,,545.4545,545.4545,7955677.369,Non-Fee Items,7880304.62,363708.53
+2011 Golf Course RBT,2011 Golf Course RBT,Construction,112,1/04/2028,,552.4862,552.4862,7956229.855,Non-Fee Items,7880857.106,363708.53
+2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Construction,102,1/04/2028,,547.4453,547.4453,7956777.3,Non-Fee Items,7881404.551,363708.53
+2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Construction,80,1/04/2028,,548.4461,548.4461,7957325.747,Non-Fee Items,7881952.997,363708.53
+2009 Brunswick Int - Upgrade,2009 Brunswick Int - Upgrade,Construction,62,1/05/2028,,144.9275,144.9275,7957470.674,Non-Fee Items,7882097.925,363708.53
+2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Construction,80,1/05/2028,,566.7276,566.7276,7958037.402,Non-Fee Items,7882664.652,363708.53
+2002 Glenorchy TC - Township improvements,2002 Glenorchy TC - Township improvements,Construction,92,1/05/2028,,90.9091,90.9091,7958128.311,Non-Fee Items,7882755.561,363708.53
+2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Construction,123,1/05/2028,,570.9024,570.9024,7958699.213,Non-Fee Items,7883326.464,363708.53
+2011 Golf Course RBT,2011 Golf Course RBT,Construction,112,1/05/2028,,570.9024,570.9024,7959270.116,Non-Fee Items,7883897.366,363708.53
+2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Construction,102,1/05/2028,,565.6934,565.6934,7959835.809,Non-Fee Items,7884463.06,363708.53
+2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Construction,123,1/06/2028,,552.4862,552.4862,7960388.295,Non-Fee Items,7885015.546,363708.53
+2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Construction,80,1/06/2028,,548.4461,548.4461,7960936.741,Non-Fee Items,7885563.992,363708.53
+2011 Golf Course RBT,2011 Golf Course RBT,Construction,112,1/06/2028,,552.4862,552.4862,7961489.227,Non-Fee Items,7886116.478,363708.53
+2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Construction,102,1/06/2028,,547.4453,547.4453,7962036.673,Non-Fee Items,7886663.923,363708.53
+2011 Golf Course RBT,2011 Golf Course RBT,Construction,112,1/07/2028,,570.9024,570.9024,7962607.575,Non-Fee Items,7887234.826,363708.53
+2004 Arthurs Point - traffic calming,2004 Arthurs Point - traffic calming,Construction,80,1/07/2028,,109.6892,109.6892,7962717.264,Non-Fee Items,7887344.515,363708.53
+2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Construction,102,1/07/2028,,565.6934,565.6934,7963282.958,Non-Fee Items,7887910.208,363708.53
+2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Construction,123,1/07/2028,,570.9024,570.9024,7963853.86,Non-Fee Items,7888481.111,363708.53
+2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Construction,123,1/08/2028,,570.9024,570.9024,7964424.763,Non-Fee Items,7889052.013,363708.53
+2011 Golf Course RBT,2011 Golf Course RBT,Construction,112,1/08/2028,,570.9024,570.9024,7964995.665,Non-Fee Items,7889622.916,363708.53
+2005 Crown Range Passing Lanes,2005 Crown Range Passing Lanes,Construction,102,1/08/2028,,291.9708,291.9708,7965287.636,Non-Fee Items,7889914.886,363708.53
+2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Construction,123,1/09/2028,,552.4862,552.4862,7965840.122,Non-Fee Items,7890467.373,363708.53
+2011 Golf Course RBT,2011 Golf Course RBT,Construction,112,1/09/2028,,405.1565,405.1565,7966245.278,Non-Fee Items,7890872.529,363708.53
+2003 Wanaka TC - CBD connectivity upgrades,2003 Wanaka TC - CBD connectivity upgrades,Construction,123,1/10/2028,,478.8214,478.8214,7966724.1,Non-Fee Items,7891351.351,363708.53
